@@ -2,7 +2,8 @@
 
 An honest list of what doesn't work, what only works on your own computer, and what hasn't been
 tested. All data in this repo is synthetic. Nothing here is a finding about real students or
-colleges.
+colleges. The cookbook repo's [KNOWN_ISSUES.md](https://github.com/devcolor/pdp-near-completer-finder-cookbooks/blob/main/KNOWN_ISSUES.md) has each bug and
+caveat in more detail, with what to do about it.
 
 ## Bugs
 

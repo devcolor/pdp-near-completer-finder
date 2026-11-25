@@ -57,7 +57,7 @@ export const env = {
   apiDocsUrl: appEnv === "production" ? null : new URL("/docs", apiBaseUrl).toString(),
   /** Source repository. Override this when the app is copied. */
   repositoryUrl:
-    process.env.NEXT_PUBLIC_REPOSITORY_URL || "https://github.com/devcolor/gia-datathon",
+    process.env.NEXT_PUBLIC_REPOSITORY_URL || "https://github.com/devcolor/pdp-near-completer-finder",
   /** Folder in the repository that holds this app. */
   repositoryFolder: process.env.NEXT_PUBLIC_REPOSITORY_FOLDER ?? "playground",
 } as const;

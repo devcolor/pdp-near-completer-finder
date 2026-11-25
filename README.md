@@ -10,7 +10,10 @@ staff find students who left a college close to finishing a credential. It summa
 be near completion and shows the courses or holds that may be keeping each person from returning.
 The bundled demo data is synthetic; it does not describe real students or colleges.
 
-<img width="950" height="540" alt="Near completers dashboard walkthrough" src="https://github.com/devcolor/gia-datathon/blob/main/dashboard_v10-cinematic-74s.gif" />
+<img width="950" height="540" alt="Near completers dashboard walkthrough" src="dashboard_v10-cinematic-74s.gif" />
+
+Guides, SQL checks and AI skills for using and checking the dashboard are in the companion
+[pdp-near-completer-finder-cookbooks](https://github.com/devcolor/pdp-near-completer-finder-cookbooks) repo.
 
 ## Architecture
 
@@ -37,8 +40,8 @@ See [Architecture](docs/architecture.md) for the shared ARF-to-normalized-model 
 dashboard data path, where measures are computed, and the campus review process.
 
 ```bash
-git clone https://github.com/devcolor/gia-datathon.git
-cd gia-datathon/playground
+git clone https://github.com/devcolor/pdp-near-completer-finder.git
+cd pdp-near-completer-finder/playground
 mise trust && mise install
 mise run db:choose sqlite
 mise run db

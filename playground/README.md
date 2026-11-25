@@ -175,8 +175,8 @@ Confirm the setting was added to your global mise config (`~/.config/mise/config
 [How to create a Playground for your organization](#how-to-create-a-playground-for-your-organization) first, then come back to Step 1.
 
 ```bash
-git clone <this repository's URL> gia-datathon
-cd gia-datathon/playground
+git clone https://github.com/devcolor/pdp-near-completer-finder.git
+cd pdp-near-completer-finder/playground
 ```
 
 ### Step 1: Install the toolchain

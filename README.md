@@ -125,8 +125,9 @@ The full list, including bugs, mock-data quirks and what only works locally, is 
 
 ## Credits
 
-Built at the 2026 /dev/color Datathon by the GIA (Growing Inland Achievement) team. The raw mock PDP
-file formats were provided by Achieving the Dream. See [`data/README.md`](data/README.md) for data
+Built at the 2026 /dev/color Datathon by the GIA (Growing Inland Achievement) team: Jasmine Omeke
+(squad lead), Kavan Brandon, Shavant Thomas, Aneesa Valentine. The raw mock PDP file formats were
+provided by Achieving the Dream. See [`data/README.md`](data/README.md) for data
 provenance and data-use terms.
 
 ## License

@@ -1,0 +1,21 @@
+student_id,as_of_date,reg_hold_status,hold_type,single_parent,number_of_children,parenting_category,is_parent,employment_status,housing_status,is_first_gen,advisor_assigned,source
+C2-001,2026-10-30,FALSE,,No,0,,FALSE,Full-Time,Stable,TRUE,TRUE,example: made up for GIA datathon
+C2-002,2026-10-30,FALSE,,No,1,,TRUE,Full-Time,Stable,FALSE,TRUE,example: made up for GIA datathon
+C2-003,2026-10-30,TRUE,Financial,Yes,2,,TRUE,Full-Time,At-Risk,TRUE,FALSE,example: made up for GIA datathon
+C2-004,2026-10-30,FALSE,,No,0,,FALSE,None,,TRUE,TRUE,example: made up for GIA datathon
+C2-005,2026-10-30,TRUE,Academic,Yes,1,,TRUE,None,,TRUE,FALSE,example: made up for GIA datathon
+C2-006,2026-10-30,FALSE,,No,0,,FALSE,None,,TRUE,FALSE,example: made up for GIA datathon
+C2-007,2026-10-30,FALSE,,No,0,,FALSE,Part-Time,Stable,TRUE,TRUE,example: made up for GIA datathon
+C2-008,2026-10-30,FALSE,,No,0,,FALSE,Part-Time,Stable,FALSE,TRUE,example: made up for GIA datathon
+C2-009,2026-10-30,FALSE,,No,2,,TRUE,Full-Time,Stable,TRUE,TRUE,example: made up for GIA datathon
+C2-010,2026-10-30,TRUE,Financial,No,0,,FALSE,Full-Time,Unstable,FALSE,FALSE,example: made up for GIA datathon
+STU00805,2026-10-30,TRUE,Financial,,,Parenting,TRUE,Full-Time,Stable,FALSE,FALSE,example: made up for GIA datathon
+STU00406,2026-10-30,FALSE,,,,Parenting,TRUE,Full-Time,Stable,FALSE,TRUE,example: made up for GIA datathon
+STU00149,2026-10-30,TRUE,Financial,,,None,FALSE,Full-Time,Stable,TRUE,FALSE,example: made up for GIA datathon
+STU01282,2026-10-30,TRUE,Medical,,,Parenting,TRUE,Part-Time,At-Risk,TRUE,FALSE,example: made up for GIA datathon
+STU00056,2026-10-30,FALSE,,,,None,FALSE,Full-Time,Stable,FALSE,FALSE,example: made up for GIA datathon
+STU00288,2026-10-30,TRUE,Academic,,,Parenting,TRUE,Part-Time,Unstable,TRUE,FALSE,example: made up for GIA datathon
+STU00376,2026-10-30,TRUE,Academic,,,Expecting,FALSE,Part-Time,At-Risk,TRUE,FALSE,example: made up for GIA datathon
+STU00751,2026-10-30,FALSE,,,,Parenting,TRUE,Full-Time,Stable,FALSE,FALSE,example: made up for GIA datathon
+STU01343,2026-10-30,TRUE,Financial,,,None,FALSE,None,At-Risk,FALSE,FALSE,example: made up for GIA datathon
+STU01298,2026-10-30,FALSE,,,,Parenting,TRUE,Full-Time,Stable,FALSE,TRUE,example: made up for GIA datathon

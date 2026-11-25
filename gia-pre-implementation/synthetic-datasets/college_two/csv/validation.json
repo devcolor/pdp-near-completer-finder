@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "source_commit": "56c635408bc8a3b0ba263335003ebacda12e01ac",
+  "students": 1000,
+  "profiles": 1000,
+  "course_enrollments": 16239,
+  "population": {
+    "Incarcerated": 550,
+    "Firefighter": 300,
+    "General": 150
+  },
+  "progress": {
+    "Early progress": 201,
+    "Pathway complete": 108,
+    "Continuing": 400,
+    "Near completer": 276,
+    "CVC a la carte (not a stop-out)": 15
+  },
+  "catalog_years": [
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024",
+    "2024-2025",
+    "2025-2026",
+    "2026-2027"
+  ],
+  "checks": [
+    "unique IDs and complete joins",
+    "catalog code/title/unit matches",
+    "date boundaries",
+    "year-one credit sums",
+    "current enrollment consistency",
+    "CSV row counts"
+  ]
+}

@@ -1,0 +1,14 @@
+import { chromium } from "playwright";
+const b = await chromium.launch();
+const pg = await b.newPage({ viewport: { width: 1400, height: 900 }, deviceScaleFactor: 2 });
+await pg.goto("http://localhost:3000/dashboard", { waitUntil: "networkidle" });
+await pg.waitForTimeout(2400);
+const trigger = pg.getByRole("button", { name: /last term enrolled/i }).first();
+await trigger.click(); await pg.waitForTimeout(600);
+await pg.screenshot({ path: "/tmp/picker.png" });
+await pg.getByRole("button", { name: "22 Fall", exact: true }).click(); await pg.waitForTimeout(350);
+await pg.getByRole("button", { name: "25 Spring", exact: true }).click(); await pg.waitForTimeout(1500);
+console.log("  picked:", (await trigger.innerText()).trim());
+const page = await pg.locator("main").innerText();
+console.log("  any 'Winter' left on screen:", page.includes("Winter"));
+await b.close();

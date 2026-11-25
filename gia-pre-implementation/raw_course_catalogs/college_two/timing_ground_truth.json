@@ -1,0 +1,24 @@
+{
+  "institution": "college_two",
+  "p_both_by_volume": {
+    "high": 0.92,
+    "mid": 0.7,
+    "low": 0.35
+  },
+  "p_fall_given_single_season": 0.72,
+  "p_alternate_year_given_single_season": 0.12,
+  "volume_terciles": "course enrollment counts from the synthetic course_detail.csv",
+  "seed": "md5(institution + course_code), so a course's pattern is stable across reruns",
+  "note": "Simulated rows only. Rows with timing_source=catalog are read from the catalog.",
+  "counts": {
+    "catalog": 0,
+    "simulated": 1267
+  },
+  "patterns": {
+    "spring_only": 112,
+    "fall_only": 251,
+    "every_term": 853,
+    "fall_alternate_years": 36,
+    "spring_alternate_years": 15
+  }
+}

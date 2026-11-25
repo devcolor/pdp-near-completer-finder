@@ -1,0 +1,161 @@
+﻿catalog_year,institution,program,award_type,required_credits,optional_credits,total_credits_to_graduate,required_source,optional_source,total_source,needs_review,review_reason,credit_unit
+2023-2024,CMC,ACCOUNTING,Certificate of Achievement,35.0,0.0,29.0,catalog,derived (total - required),catalog,yes,required (35) exceeds stated total (29),semester credits
+2023-2024,CMC,ADMINISTRATION OF JUSTICE,Associate in Science,12.0,6.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ALTERNATIVE FUEL VEHICLES,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ANTHROPOLOGY,Associate in Arts,19.0,0.0,19.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ART HISTORY,Associate in Arts,24.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (18),semester credits
+2023-2024,CMC,AUTOMOTIVE TECHNOLOGY,Associate in Science,42.0,3.0,63.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,AUTOMOTIVE TECHNOLOGY,Certificate of Achievement,31.0,3.0,34.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,BIOLOGY,Associate in Science,32.0,28.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,BUSINESS ADMINISTRATION,Associate in Arts,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,CHEMISTRY,Associate in Science,36.0,24.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMMUNICATION STUDIES,Associate in Arts,18.0,0.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMMUNICATION STUDIES 2.0,Associate in Arts,18.0,0.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMPUTER INFORMATION,Associate in Science,24.0,18.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,COMPUTER INFORMATION,Certificate of Achievement,21.0,6.0,27.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,COMPUTER NETWORK,Certificate of Achievement,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMPUTER PROGRAMMING,Associate in Science,24.0,18.0,42.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,COMPUTER PROGRAMMING,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMPUTER SCIENCE,Associate in Science,29.0,31.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,COMPUTER-AIDED DESIGN,Certificate of Achievement,12.0,0.0,12.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,CRIMINAL JUSTICE,Associate in Science,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,CULINARY ARTS,Certificate of Achievement,22.0,0.0,20.0,catalog,derived (total - required),catalog,yes,required (22) exceeds stated total (20),semester credits
+2023-2024,CMC,DESERT STUDIES,Certificate of Achievement,14.0,4.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,EARLY CHILDHOOD EDUCATION,Associate in Science,25.0,0.0,25.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ECONOMICS,Associate in Arts,20.5,0.0,20.5,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ELEMENTARY TEACHER EDUCATION,Associate in Arts,49.0,5.0,54.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ENGINE PERFORMANCE AND,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ENGLISH,Associate in Arts,21.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (21) exceeds stated total (18),semester credits
+2023-2024,CMC,ENGLISH,Associate in Arts,24.0,0.0,21.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (21),semester credits
+2023-2024,CMC,ENVIRONMENTAL SCIENCE,Associate in Science,37.0,23.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,ENVIRONMENTAL STUDIES,Associate in Science,19.0,41.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,FIRE TECHNOLOGY,Associate in Science,42.0,0.0,42.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,FIRE TECHNOLOGY,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,GENERAL BUSINESS,Associate in Science,40.0,17.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,HEATING AND AIR CONDITIONING,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,HISTORY,Associate in Arts,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,HOSPITALITY MANAGEMENT,Associate in Science,12.0,4.5,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,KINESIOLOGY,Associate in Arts,13.0,5.0,21.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,LIBERAL STUDIES,Associate in Arts,64.0,0.0,64.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,MATHEMATICS,Associate in Science,13.0,7.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,PHYSICS,Associate in Science,25.0,35.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,POLITICAL SCIENCE,Associate in Arts,13.0,6.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,PSYCHOLOGY,Associate in Arts,21.0,0.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,QUALIFIED EARLY CHILDHOOD E,Certificate of Achievement,28.0,16.0,44.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,REGISTERED NURSING,Associate in Science,36.0,1.0,37.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,SOCIOLOGY,Associate in Arts,16.0,3.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,SPANISH,Associate in Arts,18.0,3.0,60.0,catalog,catalog,catalog,,,semester credits
+2023-2024,CMC,STEERING AND SUSPENSION,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,STUDIO ARTS,Associate in Arts,18.0,6.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,"TRANSMISSION SERVICE,",Certificate of Achievement,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,VOCATIONAL NURSING,Associate in Science,56.0,0.0,56.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,VOCATIONAL NURSING,Certificate of Achievement,56.0,0.0,56.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Achievement,6.0,15.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2023-2024,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Completion,,,,not stated,not stated,not stated,yes,a figure was not stated in the catalog,semester credits
+2024-2025,CMC,ACCOUNTING,Certificate of Achievement,35.0,0.0,29.0,catalog,derived (total - required),catalog,yes,required (35) exceeds stated total (29),semester credits
+2024-2025,CMC,ADMINISTRATION OF JUSTICE,Associate in Science,12.0,6.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ALTERNATIVE FUEL VEHICLES,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ANTHROPOLOGY,Associate in Arts,19.0,0.0,19.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ART HISTORY,Associate in Arts,24.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (18),semester credits
+2024-2025,CMC,AUTOMOTIVE TECHNOLOGY,Associate in Science,42.0,3.0,66.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,AUTOMOTIVE TECHNOLOGY,Certificate of Achievement,31.0,3.0,34.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,BIOLOGY,Associate in Science,32.0,28.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,BUSINESS ADMINISTRATION,Associate in Arts,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,BUSINESS ADMINISTRATION 2.0,Associate in Science,29.5,30.5,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,CHEMISTRY,Associate in Science,36.0,24.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMMUNICATION STUDIES 2.0,Associate in Arts,18.0,0.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMPUTER INFORMATION,Associate in Science,24.0,18.0,63.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,COMPUTER INFORMATION,Certificate of Achievement,21.0,6.0,27.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,COMPUTER NETWORK,Certificate of Achievement,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMPUTER PROGRAMMING,Associate in Science,24.0,18.0,42.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,COMPUTER PROGRAMMING,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMPUTER SCIENCE,Associate in Science,29.0,31.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMPUTER SCIENCE,Associate in Science,29.0,31.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,COMPUTER-AIDED DESIGN,Certificate of Achievement,12.0,0.0,12.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,CRIMINAL JUSTICE,Associate in Science,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,CULINARY ARTS,Certificate of Achievement,22.0,0.0,20.0,catalog,derived (total - required),catalog,yes,required (22) exceeds stated total (20),semester credits
+2024-2025,CMC,DESERT STUDIES,Certificate of Achievement,14.0,4.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,EARLY CHILDHOOD EDUCATION,Associate in Science,25.0,0.0,25.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ECONOMICS,Associate in Arts,20.5,0.0,20.5,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ELEMENTARY TEACHER EDUCATION,Associate in Arts,49.0,5.0,54.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ENGINE PERFORMANCE AND,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,ENGLISH,Associate in Arts,21.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (21) exceeds stated total (18),semester credits
+2024-2025,CMC,ENGLISH,Associate in Arts,24.0,0.0,21.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (21),semester credits
+2024-2025,CMC,ENVIRONMENTAL SCIENCE,Associate in Science,37.0,23.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,FIRE TECHNOLOGY,Associate in Science,42.0,0.0,42.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,FIRE TECHNOLOGY,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,GENERAL BUSINESS,Associate in Science,40.0,17.0,63.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,HEATING AND AIR CONDITIONING,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,HISTORY,Associate in Arts,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,HOSPITALITY MANAGEMENT,Associate in Science,12.0,4.5,60.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,KINESIOLOGY,Associate in Arts,13.0,5.0,21.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,LIBERAL STUDIES,Associate in Arts,64.0,0.0,64.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,MATHEMATICS,Associate in Science,13.0,7.0,60.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,PHYSICS,Associate in Science,25.0,35.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,POLITICAL SCIENCE,Associate in Arts,13.0,6.0,60.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,PSYCHOLOGY,Associate in Arts,21.0,0.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,QUALIFIED EARLY CHILDHOOD E,Certificate of Achievement,28.0,16.0,44.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,REGISTERED NURSING,Associate in Science,36.0,1.0,37.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,SOCIOLOGY,Associate in Arts,16.0,3.0,60.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,SPANISH,Associate in Arts,18.0,3.0,60.0,catalog,catalog,catalog,,,semester credits
+2024-2025,CMC,STEERING AND SUSPENSION,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,STUDIO ARTS,Associate in Arts,18.0,6.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,"TRANSMISSION SERVICE,",Certificate of Achievement,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,VOCATIONAL NURSING,Associate in Science,56.0,0.0,56.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,VOCATIONAL NURSING,Certificate of Achievement,56.0,0.0,56.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Achievement,6.0,15.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2024-2025,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Completion,,,,not stated,not stated,not stated,yes,a figure was not stated in the catalog,semester credits
+2025-2026,CMC,ACCOUNTING,Certificate of Achievement,35.0,0.0,29.0,catalog,derived (total - required),catalog,yes,required (35) exceeds stated total (29),semester credits
+2025-2026,CMC,ADMINISTRATION OF JUSTICE,Associate in Science,12.0,6.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ALTERNATIVE FUEL VEHICLES,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ANTHROPOLOGY,Associate in Arts,19.0,0.0,19.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ART HISTORY,Associate in Arts,24.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (18),semester credits
+2025-2026,CMC,AUTOMOTIVE TECHNOLOGY,Associate in Science,42.0,3.0,66.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,AUTOMOTIVE TECHNOLOGY,Certificate of Achievement,31.0,3.0,34.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,BIOLOGY,Associate in Science,32.0,34.0,66.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,BUSINESS ADMINISTRATION,Associate in Arts,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,BUSINESS ADMINISTRATION 2.0,Associate in Science,80.5,0.0,62.0,catalog,derived (total - required),catalog,yes,required (80.5) exceeds stated total (62),semester credits
+2025-2026,CMC,CHEMISTRY,Associate in Science,36.0,30.0,66.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMMUNICATION STUDIES 2.0,Associate in Arts,18.0,0.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMPUTER INFORMATION,Associate in Science,24.0,18.0,63.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,COMPUTER INFORMATION,Certificate of Achievement,21.0,6.0,27.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,COMPUTER NETWORK,Certificate of Achievement,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMPUTER PROGRAMMING,Associate in Science,24.0,18.0,42.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,COMPUTER PROGRAMMING,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMPUTER SCIENCE,Associate in Science,29.0,31.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMPUTER SCIENCE,Associate in Science,29.0,37.0,66.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,COMPUTER-AIDED DESIGN,Certificate of Achievement,12.0,0.0,12.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,CRIMINAL JUSTICE,Associate in Science,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,CULINARY ARTS,Certificate of Achievement,22.0,0.0,20.0,catalog,derived (total - required),catalog,yes,required (22) exceeds stated total (20),semester credits
+2025-2026,CMC,DESERT STUDIES,Certificate of Achievement,14.0,4.0,18.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,EARLY CHILDHOOD EDUCATION,Associate in Science,25.0,0.0,25.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ECONOMICS,Associate in Arts,24.5,0.0,20.5,catalog,derived (total - required),catalog,yes,required (24.5) exceeds stated total (20.5),semester credits
+2025-2026,CMC,ELEM,Associate in Arts,39.0,,,catalog,not stated,not stated,yes,a figure was not stated in the catalog,semester credits
+2025-2026,CMC,ELEMENTARY TEACHER EDUCATION INTEGRATED PROGRAMS,Associate in Arts,29.0,3.0,32.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ENGINE PERFORMANCE AND,Certificate of Achievement,23.0,0.0,23.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,ENGLISH,Associate in Arts,24.0,0.0,21.0,catalog,derived (total - required),catalog,yes,required (24) exceeds stated total (21),semester credits
+2025-2026,CMC,ENGLISH,Associate in Arts,21.0,0.0,18.0,catalog,derived (total - required),catalog,yes,required (21) exceeds stated total (18),semester credits
+2025-2026,CMC,ENVIRONMENTAL SCIENCE,Associate in Science,33.0,42.0,75.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,FIRE TECHNOLOGY,Associate in Science,42.0,0.0,42.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,FIRE TECHNOLOGY,Certificate of Achievement,30.0,0.0,30.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,GENERAL BUSINESS,Associate in Science,40.0,17.0,63.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,HEATING AND AIR CONDITIONING,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,HISTORY,Associate in Arts,24.0,0.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,HOSPITALITY MANAGEMENT,Associate in Science,12.0,4.5,60.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,KINESIOLOGY,Associate in Arts,13.0,6.0,21.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,LIBERAL STUDIES,Associate in Arts,64.0,0.0,64.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,MATHEMATICS,Associate in Science,13.0,7.0,60.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,PHYSICS,Associate in Science,25.0,35.0,60.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,POLITICAL SCIENCE,Associate in Arts,9.0,6.0,60.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,PSYCHOLOGY,Associate in Arts,17.0,4.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,QUALIFIED EARLY CHILDHOOD E,Certificate of Achievement,28.0,16.0,44.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,REGISTERED NURSING,Associate in Science,36.0,1.0,37.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,SOCIOLOGY,Associate in Arts,25.0,0.0,25.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,SPANISH,Associate in Arts,18.0,3.0,60.0,catalog,catalog,catalog,,,semester credits
+2025-2026,CMC,STEERING AND SUSPENSION,Certificate of Achievement,16.0,0.0,16.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,STUDIO ARTS,Associate in Arts,18.0,6.0,24.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,"TRANSMISSION SERVICE,",Certificate of Achievement,20.0,0.0,20.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,VOCATIONAL NURSING,Associate in Science,55.6,0.0,55.6,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,VOCATIONAL NURSING,Certificate of Achievement,55.6,18.0,73.6,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Achievement,6.0,15.0,21.0,catalog,derived (total - required),catalog,,,semester credits
+2025-2026,CMC,WILDLAND FIRE TECHNOLOGY,Certificate of Completion,,,,not stated,not stated,not stated,yes,a figure was not stated in the catalog,semester credits

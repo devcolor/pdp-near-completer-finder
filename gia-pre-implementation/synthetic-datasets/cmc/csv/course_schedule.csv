@@ -1,0 +1,677 @@
+﻿section,course_code,course_title,instructor,meeting_day,meeting_time,location,catalog_year,program,terms_offered,offering_pattern
+012,ACC 041,STRATEGIES FOR COLLEGE SUCCESS,A. Lindqvist,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,ACC 041,STRATEGIES FOR COLLEGE SUCCESS,N. Alvarez,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ACCT 001,FINANCIAL ACCOUNTING,R. Mbeki,M,18:00-20:50,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+W01,ACCT 002,MANAGERIAL ACCOUNTING,B. Quintero,Async,n/a (async),DE (distance ed),2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+026,ACCT 002,MANAGERIAL ACCOUNTING,H. Rahman,Th,18:00-20:50,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+038,ACCT 002,MANAGERIAL ACCOUNTING,H. Ustinov,S,09:00-13:50,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+017,ACCT 003,INTRODUCTION TO GOVERNMENTAL AND NOT-FOR-PROFIT ACCOUNTING,C. Boateng,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+021,ACCT 003,INTRODUCTION TO GOVERNMENTAL AND NOT-FOR-PROFIT ACCOUNTING,S. Villanueva,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+014,ACCT 004,TAX ACCOUNTING I - INDIVIDUALS,T. Fontaine,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ACCT 005,TAX ACCOUNTING II - BUSINESS ENTITIES,H. Boateng,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,ANTH 001,INTRODUCTION TO PHYSICAL ANTHROPOLOGY,B. Castillo,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,ANTH 001,INTRODUCTION TO PHYSICAL ANTHROPOLOGY,C. Tanaka,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+036,ANTH 001,INTRODUCTION TO PHYSICAL ANTHROPOLOGY,D. Mbeki,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,ANTH 002,CULTURAL ANTHROPOLOGY,C. Petrova,MWF,10:00-10:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+016,ANTH 003,"ARCHAEOLOGY, AN INTRODUCTION TO PREHISTORY",V. Villanueva,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,ANTH 003,"ARCHAEOLOGY, AN INTRODUCTION TO PREHISTORY",H. Quintero,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+011,ART 001A,FUNDAMENTALS OF DRAWING AND COMPOSITION,S. Rahman,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,ART 001A,FUNDAMENTALS OF DRAWING AND COMPOSITION,C. Ustinov,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+032,ART 001A,FUNDAMENTALS OF DRAWING AND COMPOSITION,L. Villanueva,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,ART 001B,INTERMEDIATE DRAWING AND COMPOSITION,S. Gutierrez,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,ART 001B,INTERMEDIATE DRAWING AND COMPOSITION,N. Lindqvist,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+018,ART 003A,INTRODUCTION TO TWO-DIMENSIONAL DESIGN,N. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,ART 003A,INTRODUCTION TO TWO-DIMENSIONAL DESIGN,B. Ustinov,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,ART 004,THREE-DIMENSIONAL DESIGN,B. Nakamura,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+017,ART 005A,INTRODUCTION TO FIGURE DRAWING,N. Lindqvist,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,ART 005B,INTERMEDIATE FIGURE DRAWING,J. Fontaine,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,ART 005B,INTERMEDIATE FIGURE DRAWING,C. Petrova,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,ART 005B,INTERMEDIATE FIGURE DRAWING,J. Lindqvist,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ART 007A,INTRODUCTION TO CERAMICS,E. Castillo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,ART 007A,INTRODUCTION TO CERAMICS,J. Ustinov,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ART 007B,INTERMEDIATE CERAMICS,E. Gutierrez,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,ART 007B,INTERMEDIATE CERAMICS,N. Halvorsen,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+036,ART 007B,INTERMEDIATE CERAMICS,S. Fontaine,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,ART 009A,PRINTMAKING,L. Boateng,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+028,ART 009A,PRINTMAKING,K. Okonkwo,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,ART 009B,PRINTMAKING,H. Rahman,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+022,ART 009B,PRINTMAKING,T. Mbeki,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+037,ART 009B,PRINTMAKING,M. Yamada,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,ART 010,INTRODUCTION TO ART,B. Kowalski,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,ART 010,INTRODUCTION TO ART,J. Delgado,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,ART 011A,BEGINNING SCULPTURE,S. Lindqvist,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+017,ART 011B,INTERMEDIATE SCULPTURE,M. Castillo,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,ART 011B,INTERMEDIATE SCULPTURE,T. Boateng,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,ART 023A,BEGINNING PAINTING,M. Alvarez,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,ART 023A,BEGINNING PAINTING,H. Whitfield,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,ART 023A,BEGINNING PAINTING,E. Quintero,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ART 023B,INTERMEDIATE PAINTING,E. Whitfield,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,ART 031,DIGITAL PHOTOGRAPHY,K. Mbeki,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,ART 031,DIGITAL PHOTOGRAPHY,T. Delgado,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,ART 033,HISTORY OF PHOTOGRAPHY,J. Okonkwo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+010,ART 040,INTRODUCTION TO DIGITAL GRAPHIC DESIGN,D. Gutierrez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ART 041,GRAPHIC DESIGN II,L. Petrova,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,ART 048A,DIRECTED RESEARCH SEMINAR,B. Ustinov,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+012,ART 048B,DIRECTED RESEARCH SEMINAR,N. Yamada,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,ART 048B,DIRECTED RESEARCH SEMINAR,P. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ART 048C,DIRECTED RESEARCH SEMINAR,L. Halvorsen,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,ART 048C,DIRECTED RESEARCH SEMINAR,T. Yamada,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+033,ART 048C,DIRECTED RESEARCH SEMINAR,L. Alvarez,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,ART 050,HISTORY OF WESTERN ART: PREHISTORY THROUGH THE MIDDLE AGES,K. Yamada,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+025,ART 050,HISTORY OF WESTERN ART: PREHISTORY THROUGH THE MIDDLE AGES,E. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+037,ART 050,HISTORY OF WESTERN ART: PREHISTORY THROUGH THE MIDDLE AGES,K. Nakamura,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,ART 051,WESTERN ART HISTORY: RENAISSANCE TO CONTEMPORARY,J. Villanueva,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ART 052,HISTORY OF ART: MODERN TO CONTEMPORARY ART WITH A GLOBAL PERSPECTIVE,S. Halvorsen,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,ART 052,HISTORY OF ART: MODERN TO CONTEMPORARY ART WITH A GLOBAL PERSPECTIVE,B. Alvarez,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ART 053,INTRODUCTION TO THE VISUAL ARTS OF NON-WESTERN CULTURES,R. Petrova,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,ART 053,INTRODUCTION TO THE VISUAL ARTS OF NON-WESTERN CULTURES,J. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,ART 053,INTRODUCTION TO THE VISUAL ARTS OF NON-WESTERN CULTURES,B. Nakamura,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,ASL 001,ELEMENTARY AMERICAN SIGN LANGUAGE I,R. Ustinov,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,ASL 002,ELEMENTARY AMERICAN SIGN LANGUAGE II,S. Castillo,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,ASL 002,ELEMENTARY AMERICAN SIGN LANGUAGE II,J. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ASL 003,INTERMEDIATE AMERICAN SIGN LANGUAGE I,E. Petrova,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,ASL 003,INTERMEDIATE AMERICAN SIGN LANGUAGE I,M. Quintero,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,ASL 003,INTERMEDIATE AMERICAN SIGN LANGUAGE I,L. Mbeki,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,ASL 004,INTERMEDIATE AMERICAN SIGN LANGUAGE II,B. Ustinov,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Spring,spring_only
+022,ASL 004,INTERMEDIATE AMERICAN SIGN LANGUAGE II,C. Boateng,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+035,ASL 004,INTERMEDIATE AMERICAN SIGN LANGUAGE II,R. Tanaka,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+018,AUTO 004,PRINCIPLES OF AUTOMOTIVE TECHNOLOGY,A. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+017,AUTO 018,ENGINE PERFORMANCE I,M. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+028,AUTO 018,ENGINE PERFORMANCE I,H. Delgado,MWF,13:00-13:50,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+032,AUTO 018,ENGINE PERFORMANCE I,N. Mbeki,MW,08:00-09:25,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+018,AUTO 020,AUTOMOTIVE ELECTRICAL SYSTEMS I,V. Eriksen,TTh,08:00-09:25,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+015,AUTO 021,AUTOMOTIVE ELECTRICAL SYSTEMS II,S. Halvorsen,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,AUTO 021,AUTOMOTIVE ELECTRICAL SYSTEMS II,T. Rahman,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W03,AUTO 021,AUTOMOTIVE ELECTRICAL SYSTEMS II,D. Petrova,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+014,AUTO 027,BASIC AND ADVANCED CLEAN AIR CAR COURSE ENGINE AND EMISSION CONTROL TRAINING (LEVEL 1) AND SMOG CHECK TRAINING (LEVEL 2),H. Tanaka,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,AUTO 027,BASIC AND ADVANCED CLEAN AIR CAR COURSE ENGINE AND EMISSION CONTROL TRAINING (LEVEL 1) AND SMOG CHECK TRAINING (LEVEL 2),H. Rahman,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,AUTO 028,INTRODUCTION TO HYBRID AND ELECTRIC VEHICLE TECHNOLOGY,R. Eriksen,TTh,08:00-09:25,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+013,AUTO 029,ENGINE PERFORMANCE II,A. Ibarra,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,AUTO 029,ENGINE PERFORMANCE II,A. Ibarra,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,AUTO 035,"AUTOMOTIVE STEERING, SUSPENSION, AND ALIGNMENT",M. Rahman,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,AUTO 036,AUTOMOTIVE BRAKE SYSTEMS,T. Ustinov,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,AUTO 036,AUTOMOTIVE BRAKE SYSTEMS,C. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+032,AUTO 036,AUTOMOTIVE BRAKE SYSTEMS,D. Delgado,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,AUTO 044,AUTOMOTIVE ENGINE REPAIR,K. Eriksen,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+021,AUTO 044,AUTOMOTIVE ENGINE REPAIR,P. Yamada,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+016,AUTO 045,AUTOMATIC TRANSMISSIONS AND TRANSAXLES,R. Ibarra,M,18:00-20:50,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+015,AUTO 060,AUTOMOTIVE HEATING AND AIR CONDITIONING,P. Eriksen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,AUTO 060,AUTOMOTIVE HEATING AND AIR CONDITIONING,P. Petrova,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+038,AUTO 060,AUTOMOTIVE HEATING AND AIR CONDITIONING,H. Tanaka,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,AUTO 065,MANUAL TRANSMISSIONS AND TRANSAXLES,J. Okonkwo,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,AUTO 065,MANUAL TRANSMISSIONS AND TRANSAXLES,L. Ustinov,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,AUTO 065,MANUAL TRANSMISSIONS AND TRANSAXLES,B. Ustinov,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,AUTO 078,HYBRID AND ALTERNATIVE FUEL VEHICLES,H. Boateng,Async,n/a (async),DE (distance ed),2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+022,AUTO 078,HYBRID AND ALTERNATIVE FUEL VEHICLES,E. Ustinov,TTh,09:35-11:00,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+030,AUTO 078,HYBRID AND ALTERNATIVE FUEL VEHICLES,D. Okonkwo,Th,18:00-20:50,CMC Main,2025-2026,ALTERNATIVE FUEL VEHICLES,Fall;Spring,every_term
+018,BI 004,ELEMENTS OF BIOLOGY,B. Quintero,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,BI 004,ELEMENTS OF BIOLOGY,N. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,BI 004L,ELEMENTS OF BIOLOGY LABORATORY,J. Petrova,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,BI 004L,ELEMENTS OF BIOLOGY LABORATORY,H. Mbeki,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,BI 005,MOLECULAR AND CELLULAR BIOLOGY,C. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+021,BI 005,MOLECULAR AND CELLULAR BIOLOGY,K. Tanaka,S,09:00-13:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+W01,BI 006,BIOLOGY OF ORGANISMS,C. Rahman,Async,n/a (async),DE (distance ed),2025-2026,BIOLOGY,Spring,spring_only
+015,BI 015,GENERAL MICROBIOLOGY,P. Rahman,TTh,08:00-09:25,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+027,BI 015,GENERAL MICROBIOLOGY,L. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+032,BI 015,GENERAL MICROBIOLOGY,A. Nakamura,MWF,10:00-10:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+014,BI 022,HUMAN ANATOMY,E. Whitfield,W,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+W01,BI 023,HUMAN PHYSIOLOGY,A. Yamada,Async,n/a (async),DE (distance ed),2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+024,BI 023,HUMAN PHYSIOLOGY,K. Okonkwo,M,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+033,BI 023,HUMAN PHYSIOLOGY,K. Eriksen,T,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+015,BI 048A,E DIRECTED RESEARCH SEMINAR,V. Tanaka,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,BUAA 001,ADMINISTRATIVE PROFESSIONAL,H. Petrova,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_alternate_years
+020,BUAA 001,ADMINISTRATIVE PROFESSIONAL,L. Halvorsen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+010,BUAC 010,COMPUTER ACCOUNTING FOR SMALL BUSINESSES,C. Villanueva,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,BUAC 010,COMPUTER ACCOUNTING FOR SMALL BUSINESSES,T. Boateng,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,BUAC 066,BOOKKEEPING,V. Tanaka,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,BUAC 066,BOOKKEEPING,E. Rahman,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W03,BUAC 066,BOOKKEEPING,K. Petrova,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+017,BUMA 001,PRINCIPLES OF MANAGEMENT,N. Nakamura,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,BUMA 010,INTRODUCTION TO BUSINESS,N. Kowalski,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,BUMA 010,INTRODUCTION TO BUSINESS,N. Halvorsen,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W03,BUMA 010,INTRODUCTION TO BUSINESS,H. Delgado,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+W01,BUMA 012,PERSONAL FINANCE,J. Delgado,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+024,BUMA 012,PERSONAL FINANCE,S. Okonkwo,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+014,BUMA 020A,BUSINESS LAW,D. Halvorsen,TTh,12:45-14:10,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Spring,spring_only
+025,BUMA 020A,BUSINESS LAW,T. Okonkwo,W,18:00-20:50,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Spring,spring_only
+W03,BUMA 020A,BUSINESS LAW,K. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,BUSINESS ADMINISTRATION,Spring,spring_only
+016,BUMA 027,MARKETING,K. Rahman,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,BUMA 027,MARKETING,N. Fontaine,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+033,BUMA 027,MARKETING,D. Mbeki,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,BUWE 080,WORK EXPERIENCE - BUSINESS,T. Quintero,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,BUWE 081,WORK EXPERIENCE - BUSINESS,T. Ibarra,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,BUWE 081,WORK EXPERIENCE - BUSINESS,E. Halvorsen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,BUWE 081,WORK EXPERIENCE - BUSINESS,E. Petrova,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,BUWE 082,WORK EXPERIENCE - BUSINESS,L. Gutierrez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+015,BUWE 083,WORK EXPERIENCE - BUSINESS,N. Delgado,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,BUWE 083,WORK EXPERIENCE - BUSINESS,B. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,BUWE 084,WORK EXPERIENCE - RETAIL KIOSK OPERATIONS,L. Whitfield,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,BUWE 084,WORK EXPERIENCE - RETAIL KIOSK OPERATIONS,R. Petrova,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,CADD 001,INTRODUCTION TO COMPUTER-AIDED DESIGN AND DRAFTING FUNDAMENTALS,D. Ibarra,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,CADD 001,INTRODUCTION TO COMPUTER-AIDED DESIGN AND DRAFTING FUNDAMENTALS,B. Delgado,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,CADD 002,INTERMEDIATE COMPUTER-AIDED DESIGN AND DRAFTING,S. Ibarra,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,CADD 003,"ADVANCED COMPUTER-AIDED DESIGN AND DRAFTING, RENDERING & ANIMATION",A. Kowalski,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,CADD 004,3-DIMENSIONAL COMPUTER- AIDED DESIGN AND DRAFTING & 3-DIMENSIONAL PRINTING,N. Halvorsen,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+020,CADD 004,3-DIMENSIONAL COMPUTER- AIDED DESIGN AND DRAFTING & 3-DIMENSIONAL PRINTING,M. Yamada,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,CD 010,CHILD GROWTH AND DEVELOPMENT,P. Ustinov,Th,18:00-20:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+023,CD 010,CHILD GROWTH AND DEVELOPMENT,E. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+010,CD 012,"CHILD, FAMILY, AND COMMUNITY",R. Kowalski,T,18:00-20:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+W02,CD 012,"CHILD, FAMILY, AND COMMUNITY",N. Halvorsen,Async,n/a (async),DE (distance ed),2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+013,CD 014,PRINCIPLES AND PRACTICES OF TEACHING YOUNG CHILDREN,C. Fontaine,TTh,08:00-09:25,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+022,CD 014,PRINCIPLES AND PRACTICES OF TEACHING YOUNG CHILDREN,P. Castillo,TTh,12:45-14:10,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+033,CD 014,PRINCIPLES AND PRACTICES OF TEACHING YOUNG CHILDREN,C. Delgado,M,18:00-20:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+010,CD 015,CHILD DEVELOPMENT PRACTICUM,A. Petrova,MWF,10:00-10:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+010,CD 019,LANGUAGE ARTS AND LITERACY FOR YOUNG CHILDREN,E. Boateng,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,CD 019,LANGUAGE ARTS AND LITERACY FOR YOUNG CHILDREN,A. Castillo,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+032,CD 019,LANGUAGE ARTS AND LITERACY FOR YOUNG CHILDREN,N. Yamada,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,CD 030,INTRODUCTION TO CURRICULUM PLANNING IN EARLY CHILDHOOD EDUCATION,P. Fontaine,MWF,13:00-13:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall,fall_only
+023,CD 030,INTRODUCTION TO CURRICULUM PLANNING IN EARLY CHILDHOOD EDUCATION,V. Nakamura,MW,09:35-11:00,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall,fall_only
+032,CD 030,INTRODUCTION TO CURRICULUM PLANNING IN EARLY CHILDHOOD EDUCATION,A. Ustinov,S,09:00-13:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall,fall_only
+017,CD 040,FOSTERING CREATIVITY IN YOUNG CHILDREN,C. Whitfield,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,CD 044,"HEALTH, SAFETY, AND NUTRITION IN EARLY CHILDHOOD EDUCATION",P. Lindqvist,M,18:00-20:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+015,CD 074,TEACHING IN A DIVERSE SOCIETY,C. Alvarez,MWF,10:00-10:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+027,CD 074,TEACHING IN A DIVERSE SOCIETY,S. Halvorsen,MW,09:35-11:00,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+016,CD 075,OBSERVATION AND ASSESSMENT OF YOUNG CHILDREN,H. Tanaka,TTh,09:35-11:00,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+020,CD 075,OBSERVATION AND ASSESSMENT OF YOUNG CHILDREN,H. Yamada,MWF,13:00-13:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+037,CD 075,OBSERVATION AND ASSESSMENT OF YOUNG CHILDREN,H. Boateng,Th,18:00-20:50,CMC Main,2025-2026,EARLY CHILDHOOD EDUCATION,Fall;Spring,every_term
+016,CD 076,GUIDANCE AND DISCIPLINE FOR YOUNG CHILDREN,P. Castillo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,CD 076,GUIDANCE AND DISCIPLINE FOR YOUNG CHILDREN,K. Alvarez,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+034,CD 076,GUIDANCE AND DISCIPLINE FOR YOUNG CHILDREN,A. Halvorsen,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+015,CH 001A,GENERAL CHEMISTRY,V. Quintero,Th,18:00-20:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+028,CH 001A,GENERAL CHEMISTRY,R. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+037,CH 001A,GENERAL CHEMISTRY,H. Alvarez,W,18:00-20:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+015,CH 001B,GENERAL CHEMISTRY,N. Nakamura,TTh,09:35-11:00,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+010,CH 003,INTRODUCTORY GENERAL CHEMISTRY,H. Delgado,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+020,CH 003,INTRODUCTORY GENERAL CHEMISTRY,D. Ustinov,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+037,CH 003,INTRODUCTORY GENERAL CHEMISTRY,R. Villanueva,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,CH 005,BIO-ORGANIC CHEMISTRY,D. Okonkwo,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,CH 005,BIO-ORGANIC CHEMISTRY,J. Okonkwo,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,CH 010A,ORGANIC CHEMISTRY,V. Tanaka,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,CH 010A,ORGANIC CHEMISTRY,D. Ustinov,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,CH 010B,ORGANIC CHEMISTRY,D. Petrova,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,CIS 030,PLANNING AND CREATING AN E-BUSINESS,L. Tanaka,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+020,CIS 030,PLANNING AND CREATING AN E-BUSINESS,C. Eriksen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,CIS 050,COMPUTER KEYBOARDING,N. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+022,CIS 050,COMPUTER KEYBOARDING,K. Gutierrez,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+017,CIS 062,BEGINNING DREAMWEAVER,A. Fontaine,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,CIS 062,BEGINNING DREAMWEAVER,V. Mbeki,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+016,CIS 063,INTERMEDIATE DREAMWEAVER,V. Lindqvist,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W02,CIS 063,INTERMEDIATE DREAMWEAVER,J. Ustinov,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+038,CIS 063,INTERMEDIATE DREAMWEAVER,P. Halvorsen,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+016,CIS 070A,COMPUTER BUSINESS APPLICATIONS FOR WINDOWS,A. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+024,CIS 070A,COMPUTER BUSINESS APPLICATIONS FOR WINDOWS,K. Petrova,MWF,10:00-10:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+033,CIS 070A,COMPUTER BUSINESS APPLICATIONS FOR WINDOWS,C. Ustinov,Th,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+015,CIS 070B,WINDOWS AND INTERNET,A. Ustinov,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,CIS 070B,WINDOWS AND INTERNET,A. Whitfield,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+034,CIS 070B,WINDOWS AND INTERNET,C. Petrova,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,CIS 072D,EXCEL I,L. Halvorsen,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,CIS 073C,ACCESS DATABASE MANAGEMENT,L. Okonkwo,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,CIS 073C,ACCESS DATABASE MANAGEMENT,D. Mbeki,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,CIS 073C,ACCESS DATABASE MANAGEMENT,C. Gutierrez,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,CIS 074,EXCEL II,J. Castillo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,CIS 076B,WORD I,E. Whitfield,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,CIS 076B,WORD I,V. Yamada,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,CIS 076B,WORD I,J. Rahman,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,CIS 078B,WORD II,D. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+026,CIS 078B,WORD II,P. Rahman,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,CIS 078B,WORD II,D. Delgado,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,CIS 08,2H WEB-BASED ANIMATION WITH ANIMATE,L. Delgado,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,CIS 08,2H WEB-BASED ANIMATION WITH ANIMATE,D. Boateng,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+012,CIS 082C,WEB PUBLISHING,T. Petrova,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,CIS 082E,ADOBE PHOTOSHOP FOR PRINT AND WEB DESIGN,H. Villanueva,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W02,CIS 082E,ADOBE PHOTOSHOP FOR PRINT AND WEB DESIGN,A. Okonkwo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+W03,CIS 082E,ADOBE PHOTOSHOP FOR PRINT AND WEB DESIGN,P. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+013,CIS 082F,ADOBE ILLUSTRATOR FOR PRINT AND WEB DESIGN I,R. Eriksen,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,CIS 082F,ADOBE ILLUSTRATOR FOR PRINT AND WEB DESIGN I,D. Okonkwo,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W03,CIS 082F,ADOBE ILLUSTRATOR FOR PRINT AND WEB DESIGN I,T. Halvorsen,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+015,CIS 082G,ADOBE INDESIGN I,J. Ibarra,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,CIS 082G,ADOBE INDESIGN I,H. Quintero,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,CIS 082H,WEB-BASED ANIMATION WITH ANIMATE,H. Petrova,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+012,CIS 082I,INTRODUCTION TO ADOBE ACROBAT,J. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+023,CIS 082I,INTRODUCTION TO ADOBE ACROBAT,A. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+031,CIS 082I,INTRODUCTION TO ADOBE ACROBAT,V. Gutierrez,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+010,CIS 083E,ADOBE PHOTOSHOP ADVANCED CONCEPTS FOR PRINT AND WEB DESIGN,M. Petrova,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+014,CIS 084,VISUAL DESIGN,H. Okonkwo,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+020,CIS 084,VISUAL DESIGN,J. Kowalski,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+038,CIS 084,VISUAL DESIGN,B. Fontaine,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+017,CIS 086,WEB PAGE CONTENT DEVELOPMENT,H. Rahman,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,CIS 086,WEB PAGE CONTENT DEVELOPMENT,B. Yamada,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+036,CIS 086,WEB PAGE CONTENT DEVELOPMENT,A. Mbeki,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,CJ 001,INTRODUCTION TO CRIMINAL JUSTICE,N. Eriksen,Async,n/a (async),DE (distance ed),2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+028,CJ 001,INTRODUCTION TO CRIMINAL JUSTICE,H. Yamada,MWF,10:00-10:50,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+010,CJ 002,CRIMINAL LAW,P. Rahman,T,18:00-20:50,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+020,CJ 002,CRIMINAL LAW,J. Castillo,TTh,09:35-11:00,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+037,CJ 002,CRIMINAL LAW,A. Kowalski,TTh,08:00-09:25,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+010,CJ 003,CRIMINAL EVIDENCE AND PROCEDURE,R. Rahman,MW,08:00-09:25,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+022,CJ 003,CRIMINAL EVIDENCE AND PROCEDURE,A. Mbeki,Th,18:00-20:50,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+014,CJ 005A,COMMUNITY AND THE JUSTICE SYSTEM,H. Tanaka,TTh,12:45-14:10,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+W02,CJ 005A,COMMUNITY AND THE JUSTICE SYSTEM,A. Yamada,Async,n/a (async),DE (distance ed),2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+011,CJ 006,PRINCIPLES OF CRIMINAL INVESTIGATIONS,P. Quintero,MW,11:10-12:35,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+028,CJ 006,PRINCIPLES OF CRIMINAL INVESTIGATIONS,A. Rahman,TTh,08:00-09:25,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+036,CJ 006,PRINCIPLES OF CRIMINAL INVESTIGATIONS,P. Mbeki,MW,09:35-11:00,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+010,CJ 007,SUBSTANTIVE CALIFORNIA CRIMINAL LAW,B. Villanueva,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,CJ 007,SUBSTANTIVE CALIFORNIA CRIMINAL LAW,J. Okonkwo,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,CJ 007,SUBSTANTIVE CALIFORNIA CRIMINAL LAW,P. Quintero,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,CJ 010,JUVENILE DELINQUENCY,D. Alvarez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,CJ 030,CORRECTIONAL SYSTEMS,R. Petrova,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,CJ 030,CORRECTIONAL SYSTEMS,R. Delgado,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,CJ 032,INTRODUCTION TO CRIMINOLOGY,E. Villanueva,MW,09:35-11:00,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+022,CJ 032,INTRODUCTION TO CRIMINOLOGY,L. Alvarez,MW,11:10-12:35,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+034,CJ 032,INTRODUCTION TO CRIMINOLOGY,R. Rahman,MW,11:10-12:35,CMC Main,2025-2026,CRIMINAL JUSTICE,Fall;Spring,every_term
+010,CNST 010,BASIC CONSTRUCTION PRINCIPLES,A. Castillo,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,CNST 020,SITE PREPARATION AND LAYOUT,K. Delgado,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+027,CNST 020,SITE PREPARATION AND LAYOUT,T. Boateng,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,CNST 050,CONSTRUCTION FRAMING ESSENTIALS,D. Delgado,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+025,CNST 050,CONSTRUCTION FRAMING ESSENTIALS,H. Quintero,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+033,CNST 050,CONSTRUCTION FRAMING ESSENTIALS,M. Tanaka,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+017,CNST 060,PLUMBING FUNDAMENTALS,E. Yamada,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+021,CNST 060,PLUMBING FUNDAMENTALS,C. Rahman,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+015,CNST 080,FINISH CARPENTRY,J. Halvorsen,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,CNST 080,FINISH CARPENTRY,C. Delgado,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+031,CNST 080,FINISH CARPENTRY,T. Gutierrez,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,COMM C1000,INTRODUCTION TO PUBLIC SPEAKING,B. Alvarez,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+014,CS 001,MICROCOMPUTER SPECIALIST/A+ TRAINING,S. Halvorsen,TTh,08:00-09:25,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+W02,CS 001,MICROCOMPUTER SPECIALIST/A+ TRAINING,J. Alvarez,Async,n/a (async),DE (distance ed),2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+016,CS 003,COMPUTER NETWORK SPECIALIST/ CompTIA NET+ TRAINING,A. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+016,CS 004,COMPUTER SECURITY SPECIALIST/ SECURITY TRAINING,K. Petrova,TTh,12:45-14:10,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+023,CS 004,COMPUTER SECURITY SPECIALIST/ SECURITY TRAINING,C. Alvarez,Th,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+017,CS 005,CERTIFIED ETHICAL HACKER,L. Mbeki,T,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+010,CS 073,INTRODUCTION TO COMPUTER SCIENCE,K. Yamada,M,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+023,CS 073,INTRODUCTION TO COMPUTER SCIENCE,E. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+032,CS 073,INTRODUCTION TO COMPUTER SCIENCE,V. Boateng,M,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+014,CS 080,SYSTEMS ANALYSIS AND DESIGN,L. Rahman,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,CS 080,SYSTEMS ANALYSIS AND DESIGN,E. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+018,CS 086,VISUAL BASIC PROGRAMMING I,N. Kowalski,W,18:00-20:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+W02,CS 086,VISUAL BASIC PROGRAMMING I,V. Fontaine,Async,n/a (async),DE (distance ed),2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+W03,CS 086,VISUAL BASIC PROGRAMMING I,R. Boateng,Async,n/a (async),DE (distance ed),2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+017,CS 086A,VISUAL BASIC PROGRAMMING II,C. Kowalski,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,CS 087,ASSEMBLER LANGUAGE PROGRAMMING,A. Petrova,TTh,08:00-09:25,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+021,CS 087,ASSEMBLER LANGUAGE PROGRAMMING,P. Quintero,MWF,13:00-13:50,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+011,CS 089,C++ PROGRAMMING I,L. Quintero,S,09:00-13:50,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+W02,CS 089,C++ PROGRAMMING I,M. Fontaine,Async,n/a (async),DE (distance ed),2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+033,CS 089,C++ PROGRAMMING I,E. Lindqvist,MW,11:10-12:35,CMC Main,2025-2026,COMPUTER NETWORK,Fall;Spring,every_term
+013,CS 089A,C++ PROGRAMMING II,M. Rahman,MW,11:10-12:35,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+028,CS 089A,C++ PROGRAMMING II,K. Quintero,MW,08:00-09:25,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+018,CULN 001A,CULINARY ESSENTIALS,S. Villanueva,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,CULN 001A,CULINARY ESSENTIALS,J. Gutierrez,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,CULN 001B,"VEGETABLES, LEGUMES, AND OTHER STARCHES",V. Okonkwo,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,CULN 001B,"VEGETABLES, LEGUMES, AND OTHER STARCHES",L. Halvorsen,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,CULN 002A,"DAIRY PRODUCTS, BREAKFAST FOODS, SALADS, AND APPETIZERS",V. Castillo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+028,CULN 002A,"DAIRY PRODUCTS, BREAKFAST FOODS, SALADS, AND APPETIZERS",V. Eriksen,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+018,CULN 002B,"ESSENTIAL BAKING AND MEAT, POULTRY & SEAFOOD COOKING METHODS",S. Castillo,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W02,CULN 002B,"ESSENTIAL BAKING AND MEAT, POULTRY & SEAFOOD COOKING METHODS",T. Quintero,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+016,CUWE 080,WORK EXPERIENCE - CULINARY,N. Quintero,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,CUWE 081,WORK EXPERIENCE - CULINARY,N. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,CUWE 081,WORK EXPERIENCE - CULINARY,M. Okonkwo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,CUWE 082,WORK EXPERIENCE - CULINARY,V. Delgado,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,CUWE 083,WORK EXPERIENCE - CULINARY,D. Quintero,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+028,CUWE 083,WORK EXPERIENCE - CULINARY,K. Gutierrez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+035,CUWE 083,WORK EXPERIENCE - CULINARY,C. Alvarez,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+W01,ECON 001,PRINCIPLES OF MACROECONOMICS,B. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+028,ECON 001,PRINCIPLES OF MACROECONOMICS,R. Nakamura,MW,11:10-12:35,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+W03,ECON 001,PRINCIPLES OF MACROECONOMICS,D. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+015,ECON 002,PRINCIPLES OF MICROECONOMICS,H. Lindqvist,MW,09:35-11:00,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+023,ECON 002,PRINCIPLES OF MICROECONOMICS,P. Nakamura,M,18:00-20:50,CMC Main,2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+W03,ECON 002,PRINCIPLES OF MICROECONOMICS,L. Alvarez,Async,n/a (async),DE (distance ed),2025-2026,BUSINESS ADMINISTRATION,Fall;Spring,every_term
+W01,EDUC 010,INTRODUCTION TO ELEMENTARY CLASSROOM TEACHING,D. Halvorsen,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+026,EDUC 010,INTRODUCTION TO ELEMENTARY CLASSROOM TEACHING,J. Nakamura,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+034,EDUC 010,INTRODUCTION TO ELEMENTARY CLASSROOM TEACHING,S. Ibarra,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+013,EGSJ 014,INTRODUCTION TO RACE AND ETHNICITY,M. Nakamura,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,EGSJ 014,INTRODUCTION TO RACE AND ETHNICITY,K. Okonkwo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+018,EGSJ 020,NATIVE AMERICAN STUDIES,L. Delgado,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+020,EGSJ 020,NATIVE AMERICAN STUDIES,S. Boateng,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W03,EGSJ 020,NATIVE AMERICAN STUDIES,D. Whitfield,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+018,EGSJ 030,IDENTITY AND IDEOLOGY: INTRODUCTION TO CHICANO/A AND LATINO/A STUDIES,B. Yamada,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,EGSJ 031,"CHICANO/LATINO LITERATURE, FILM, THEATER, & MUSIC",K. Petrova,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,EGSJ 074,LIVING AND TEACHING IN A DIVERSE SOCIETY,T. Eriksen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,EGSJ 074,LIVING AND TEACHING IN A DIVERSE SOCIETY,S. Mbeki,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W03,EGSJ 074,LIVING AND TEACHING IN A DIVERSE SOCIETY,L. Delgado,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+014,EMR 001,EMERGENCY MEDICAL RESPONDER,V. Petrova,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,EMT 085,EMERGENCY MEDICAL TECHNICIAN REFRESHER COURSE,A. Petrova,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+028,EMT 085,EMERGENCY MEDICAL TECHNICIAN REFRESHER COURSE,S. Quintero,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+015,ENG 001B,COMPOSITION AND LITERATURE,H. Mbeki,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,ENG 001B,COMPOSITION AND LITERATURE,A. Okonkwo,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ENG 001C,ARGUMENTATION AND CRITICAL THINKING,M. Gutierrez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+W02,ENG 001C,ARGUMENTATION AND CRITICAL THINKING,T. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_alternate_years
+013,ENG 003A,COLLEGE COMPOSITION,S. Castillo,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,ENG 003A,COLLEGE COMPOSITION,K. Mbeki,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,ENG 003A,COLLEGE COMPOSITION,K. Lindqvist,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ENG 005A,CREATIVE WRITING,N. Tanaka,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,ENG 005A,CREATIVE WRITING,N. Fontaine,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,ENG 005B,ADVANCED CREATIVE WRITING,S. Mbeki,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,ENG 005B,ADVANCED CREATIVE WRITING,H. Castillo,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+033,ENG 005B,ADVANCED CREATIVE WRITING,E. Rahman,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,ENG 010A,AMERICAN LITERATURE I,T. Lindqvist,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+017,ENG 010B,AMERICAN LITERATURE II,C. Whitfield,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+021,ENG 010B,AMERICAN LITERATURE II,D. Gutierrez,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+017,ENG 011A,SURVEY OF ENGLISH LITERATURE: OLD ENGLISH TO EIGHTEENTH CENTURY,M. Whitfield,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W02,ENG 011A,SURVEY OF ENGLISH LITERATURE: OLD ENGLISH TO EIGHTEENTH CENTURY,J. Fontaine,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+033,ENG 011A,SURVEY OF ENGLISH LITERATURE: OLD ENGLISH TO EIGHTEENTH CENTURY,R. Kowalski,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+013,ENG 011B,SURVEY OF ENGLISH LITERATURE: ROMANTIC THROUGH POSTMODERNISM,T. Ibarra,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,ENG 012A,WORLD LITERATURE I: BEGINNINGS THROUGH 1650,V. Delgado,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,ENG 012B,WORLD LITERATURE II: THE MODERN WORLD (1650-PRESENT),B. Ustinov,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,ENG 012B,WORLD LITERATURE II: THE MODERN WORLD (1650-PRESENT),B. Quintero,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,ENG 050,BASIC WRITING SKILLS,H. Okonkwo,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+011,ENG 051,INTRODUCTION TO EXPOSITORY WRITING,C. Boateng,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+024,ENG 051,INTRODUCTION TO EXPOSITORY WRITING,B. Halvorsen,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+015,ENGL 200,(ENGL CW 100) ENG-005B ADVANCED CREATIVE WRITING,M. Kowalski,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,ENGL 200,(ENGL CW 100) ENG-005B ADVANCED CREATIVE WRITING,M. Yamada,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,ENGL C1000,ACADEMIC READING AND WRITING,T. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,ENGL C1000,ACADEMIC READING AND WRITING,V. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+037,ENGL C1000,ACADEMIC READING AND WRITING,D. Halvorsen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,ENGL C1001,CRITICAL THINKING AND WRITING,A. Tanaka,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W02,ENGL C1001,CRITICAL THINKING AND WRITING,R. Alvarez,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+030,ENGL C1001,CRITICAL THINKING AND WRITING,K. Kowalski,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W01,ENV 001,INTRODUCTION TO ENVIRONMENTAL SCIENCE,N. Rahman,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+018,FIRE 001,FIRE PROTECTION ORGANIZATIONS,S. Petrova,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,FIRE 001,FIRE PROTECTION ORGANIZATIONS,E. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+030,FIRE 001,FIRE PROTECTION ORGANIZATIONS,B. Alvarez,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+015,FIRE 002,FIRE PREVENTION,A. Eriksen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,FIRE 003,FIRE PROTECTION EQUIPMENT AND SYSTEMS,M. Okonkwo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+027,FIRE 003,FIRE PROTECTION EQUIPMENT AND SYSTEMS,N. Gutierrez,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+038,FIRE 003,FIRE PROTECTION EQUIPMENT AND SYSTEMS,V. Alvarez,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+017,FIRE 004,BUILDING CONSTRUCTION FOR FIRE PROTECTION,K. Mbeki,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,FIRE 004,BUILDING CONSTRUCTION FOR FIRE PROTECTION,C. Rahman,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+036,FIRE 004,BUILDING CONSTRUCTION FOR FIRE PROTECTION,R. Delgado,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,FIRE 005,FIRE BEHAVIOR AND COMBUSTION,A. Rahman,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,FIRE 005,FIRE BEHAVIOR AND COMBUSTION,J. Delgado,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,FIRE 006,HAZARDOUS MATERIALS OPERATIONS,E. Kowalski,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,FIRE 006,HAZARDOUS MATERIALS OPERATIONS,T. Boateng,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,FIRE 007,PRINCIPLES OF FIRE AND EMERGENCY SERVICES SAFETY & SURVIVAL,H. Kowalski,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,FIRE 007,PRINCIPLES OF FIRE AND EMERGENCY SERVICES SAFETY & SURVIVAL,B. Ustinov,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,FIRE 007,PRINCIPLES OF FIRE AND EMERGENCY SERVICES SAFETY & SURVIVAL,S. Petrova,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,FIRE 008,FIREFIGHTING STRATEGIES AND TACTICS,A. Halvorsen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,FIRE 008,FIREFIGHTING STRATEGIES AND TACTICS,P. Kowalski,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W03,FIRE 008,FIREFIGHTING STRATEGIES AND TACTICS,K. Ustinov,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+010,FIRE 058,FIRE PROTECTION HYDRAULICS AND WATER SUPPLY,L. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+025,FIRE 058,FIRE PROTECTION HYDRAULICS AND WATER SUPPLY,E. Kowalski,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+010,FIRE 061,FIRE APPARATUS AND EQUIPMENT,J. Ibarra,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,FIRE 081,FIRE APPARATUS DRIVER/OPERATOR (EMERGENCY VEHICLE OPERATIONS),E. Tanaka,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+015,FIRE 084,DRIVER/OPERATOR (PUMP OPERATIONS),M. Castillo,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+022,FIRE 084,DRIVER/OPERATOR (PUMP OPERATIONS),K. Rahman,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,FIWE 080,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (60 HOURS TOTAL),R. Petrova,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,FIWE 081,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (120 HOURS TOTAL),E. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,FIWE 081,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (120 HOURS TOTAL),A. Okonkwo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,FIWE 081,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (120 HOURS TOTAL),J. Yamada,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,FIWE 082,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (180 HOURS TOTAL),H. Tanaka,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+027,FIWE 082,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (180 HOURS TOTAL),P. Villanueva,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+030,FIWE 082,COOPERATIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (180 HOURS TOTAL),T. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,FIWE 083,COOPERTIVE WORK EXPERIENCE EDUCATION/INTERNSHIP (240 HOURS TOTAL),M. Quintero,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,GEOG 001,PHYSICAL GEOGRAPHY,E. Rahman,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,GEOG 001,PHYSICAL GEOGRAPHY,T. Ustinov,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,GEOG 002,CULTURAL GEOGRAPHY,S. Ustinov,TTh,08:00-09:25,CMC Main,2025-2026,HISTORY,Fall,fall_only
+W02,GEOG 002,CULTURAL GEOGRAPHY,M. Tanaka,Async,n/a (async),DE (distance ed),2025-2026,HISTORY,Fall,fall_only
+018,GEOG 007,WORLD REGIONAL GEOGRAPHY,J. Kowalski,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,GEOG 007,WORLD REGIONAL GEOGRAPHY,A. Castillo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,GEOG 048A,DIRECTED RESEARCH SEMINAR,J. Alvarez,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,GEOG 048B,DIRECTED RESEARCH SEMINAR,R. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+023,GEOG 048B,DIRECTED RESEARCH SEMINAR,B. Boateng,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+038,GEOG 048B,DIRECTED RESEARCH SEMINAR,K. Kowalski,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+014,GEOG 048C,DIRECTED RESEARCH SEMINAR,H. Lindqvist,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,GEOG 048C,DIRECTED RESEARCH SEMINAR,B. Tanaka,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,HHA 066,HOME HEALTH AIDE,M. Whitfield,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+025,HHA 066,HOME HEALTH AIDE,V. Okonkwo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+034,HHA 066,HOME HEALTH AIDE,P. Kowalski,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,HIST 003,HISTORY OF WORLD CIVILIZATIONS I,C. Ustinov,Th,18:00-20:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+026,HIST 003,HISTORY OF WORLD CIVILIZATIONS I,K. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+037,HIST 003,HISTORY OF WORLD CIVILIZATIONS I,R. Petrova,S,09:00-13:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+014,HIST 004,HISTORY OF WORLD CIVILIZATIONS II,B. Gutierrez,W,18:00-20:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+018,HIST 017,U.S. HISTORY THROUGH RECONSTRUCTION,K. Ibarra,T,18:00-20:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+016,HIST 018,U.S. HISTORY FROM RECONSTRUCTION TO PRESENT,L. Whitfield,MWF,13:00-13:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+025,HIST 018,U.S. HISTORY FROM RECONSTRUCTION TO PRESENT,R. Nakamura,MW,09:35-11:00,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+037,HIST 018,U.S. HISTORY FROM RECONSTRUCTION TO PRESENT,R. Quintero,W,18:00-20:50,CMC Main,2025-2026,HISTORY,Fall;Spring,every_term
+015,HIST 019,CALIFORNIA HISTORY,T. Gutierrez,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,HIST 019,CALIFORNIA HISTORY,T. Eriksen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,HIST 019,CALIFORNIA HISTORY,M. Nakamura,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,HIST 020,NATIVE AMERICAN STUDIES,S. Alvarez,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,HIST 020,NATIVE AMERICAN STUDIES,J. Villanueva,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,HIST 048A,DIRECTED RESEARCH SEMINAR,A. Villanueva,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+027,HIST 048A,DIRECTED RESEARCH SEMINAR,P. Nakamura,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+012,HIST 048B,DIRECTED RESEARCH SEMINAR,T. Yamada,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+018,HIST 048C,DIRECTED RESEARCH SEMINAR,D. Villanueva,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,HIST 048C,DIRECTED RESEARCH SEMINAR,A. Quintero,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+016,HOSP 001,INTRODUCTION TO HOSPITALITY MANAGEMENT,N. Okonkwo,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,HOSP 002,HOSPITALITY COST CONTROL,K. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+024,HOSP 002,HOSPITALITY COST CONTROL,N. Quintero,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+030,HOSP 002,HOSPITALITY COST CONTROL,A. Okonkwo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,HS 001,PERSONAL & COMMUNITY HEALTH,K. Yamada,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,HS 001,PERSONAL & COMMUNITY HEALTH,M. Kowalski,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+033,HS 001,PERSONAL & COMMUNITY HEALTH,J. Petrova,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,HS 013,GENERAL NUTRITION,A. Delgado,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+W02,HS 013,GENERAL NUTRITION,H. Okonkwo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+031,HS 013,GENERAL NUTRITION,L. Mbeki,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,HS 061,MEDICAL TERMINOLOGY,R. Delgado,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Spring,spring_only
+015,HS 065,BASIC PHARMACOLOGY,R. Alvarez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,HS 065,BASIC PHARMACOLOGY,H. Villanueva,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+037,HS 065,BASIC PHARMACOLOGY,E. Villanueva,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,HS 066,HOME HEALTH AIDE,P. Rahman,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,HS 066,HOME HEALTH AIDE,N. Quintero,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,HS 081,BASIC ARRHYTHMIAS,T. Quintero,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,HS 081,BASIC ARRHYTHMIAS,B. Mbeki,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+033,HS 081,BASIC ARRHYTHMIAS,A. Tanaka,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,KIN 001,INTRODUCTION TO KINESIOLOGY,N. Fontaine,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+023,KIN 001,INTRODUCTION TO KINESIOLOGY,K. Rahman,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,KIN 001,INTRODUCTION TO KINESIOLOGY,V. Lindqvist,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,MATH 001A,CALCULUS,S. Fontaine,Th,18:00-20:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+020,MATH 001A,CALCULUS,C. Kowalski,T,18:00-20:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+032,MATH 001A,CALCULUS,J. Yamada,TTh,08:00-09:25,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+014,MATH 001B,CALCULUS,E. Tanaka,Th,18:00-20:50,CMC Main,2025-2026,COMPUTER SCIENCE,Spring,spring_alternate_years
+013,MATH 002A,MULTIVARIATE CALCULUS,R. Villanueva,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,MATH 002A,MULTIVARIATE CALCULUS,S. Eriksen,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+038,MATH 002A,MULTIVARIATE CALCULUS,T. Ustinov,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,MATH 002B,LINEAR ALGEBRA,D. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,MATH 002B,LINEAR ALGEBRA,D. Fontaine,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,MATH 002C,ORDINARY DIFFERENTIAL EQUATIONS,D. Rahman,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,MATH 002C,ORDINARY DIFFERENTIAL EQUATIONS,B. Kowalski,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,MATH 002C,ORDINARY DIFFERENTIAL EQUATIONS,J. Nakamura,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,MATH 004,DISCRETE STRUCTURES,B. Yamada,MW,11:10-12:35,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+025,MATH 004,DISCRETE STRUCTURES,L. Tanaka,TTh,09:35-11:00,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+018,MATH 005,TRIGONOMETRY,E. Castillo,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+022,MATH 005,TRIGONOMETRY,V. Quintero,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+037,MATH 005,TRIGONOMETRY,P. Rahman,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+013,MATH 010,COLLEGE ALGEBRA FOR LIBERAL ARTS,A. Ibarra,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,MATH 010,COLLEGE ALGEBRA FOR LIBERAL ARTS,C. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,MATH 010,COLLEGE ALGEBRA FOR LIBERAL ARTS,M. Kowalski,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,MATH 010SL,COLLEGE ALGEBRA FOR LIBERAL ARTS SUCCESS LAB - CREDIT,T. Ustinov,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+028,MATH 010SL,COLLEGE ALGEBRA FOR LIBERAL ARTS SUCCESS LAB - CREDIT,A. Ibarra,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+012,MATH 012,PRE-CALCULUS,D. Ustinov,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,MATH 012,PRE-CALCULUS,K. Ibarra,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+031,MATH 012,PRE-CALCULUS,C. Lindqvist,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,MATH 012SL,PRECALCULUS & TRIGONOMETRY SUCCESS LAB - CREDIT,E. Okonkwo,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,MATH 012SL,PRECALCULUS & TRIGONOMETRY SUCCESS LAB - CREDIT,R. Mbeki,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,MATH 014,STATISTICAL METHODS,K. Yamada,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,MATH 014,STATISTICAL METHODS,K. Ibarra,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,MATH 014,STATISTICAL METHODS,B. Okonkwo,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,MATH 014SL,STATISTICAL METHODS SUCCESS LAB - CREDIT,N. Gutierrez,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+025,MATH 014SL,STATISTICAL METHODS SUCCESS LAB - CREDIT,M. Kowalski,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+016,MATH 016,MATHEMATICS FOR ELEMENTARY SCHOOL TEACHERS,V. Mbeki,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+011,MATH 040,INTERMEDIATE ALGEBRA,J. Eriksen,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+028,MATH 040,INTERMEDIATE ALGEBRA,E. Castillo,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,MATH 040SL,INTERMEDIATE ALGEBRA SUCCESS LAB - CREDIT,T. Ustinov,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+024,MATH 040SL,INTERMEDIATE ALGEBRA SUCCESS LAB - CREDIT,P. Ibarra,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W03,MATH 040SL,INTERMEDIATE ALGEBRA SUCCESS LAB - CREDIT,M. Okonkwo,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+017,MATH 041,INTERMEDIATE ALGEBRA SUPPLEMENTAL,V. Halvorsen,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+025,MATH 041,INTERMEDIATE ALGEBRA SUPPLEMENTAL,N. Yamada,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+033,MATH 041,INTERMEDIATE ALGEBRA SUPPLEMENTAL,A. Delgado,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,MATH 045,ALGEBRA FOR STATISTICS,E. Gutierrez,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+025,MATH 045,ALGEBRA FOR STATISTICS,K. Castillo,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,MATH 050,ELEMENTARY ALGEBRA,N. Rahman,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,MATH 050,ELEMENTARY ALGEBRA,K. Ibarra,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,MATH 057,PRE-ALGEBRA,C. Quintero,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,MATH 057,PRE-ALGEBRA,B. Tanaka,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+031,MATH 057,PRE-ALGEBRA,E. Kowalski,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,MUS 005,HISTORY OF ROCK ‘N’ ROLL,N. Fontaine,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+023,MUS 005,HISTORY OF ROCK ‘N’ ROLL,M. Lindqvist,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+035,MUS 005,HISTORY OF ROCK ‘N’ ROLL,T. Nakamura,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,MUS 010,INTRODUCTION TO MUSIC,D. Tanaka,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,MUS 010,INTRODUCTION TO MUSIC,M. Whitfield,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,NR 001,CONSERVATION OF NATURAL RESOURCES,E. Halvorsen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,PE 043,BADMINTON,E. Delgado,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+021,PE 043,BADMINTON,B. Castillo,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+030,PE 043,BADMINTON,B. Okonkwo,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,PE 045,BASKETBALL,S. Petrova,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,PE 052,"DANCE, AEROBIC, LOW IMPACT",J. Ibarra,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,PE 052,"DANCE, AEROBIC, LOW IMPACT",L. Petrova,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,PE 062,GOLF,R. Mbeki,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,PE 062,GOLF,P. Nakamura,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+033,PE 062,GOLF,N. Ustinov,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,PE 091,VOLLEYBALL,P. Gutierrez,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,PE 091,VOLLEYBALL,H. Delgado,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,PE 096,WEIGHT TRAINING,D. Okonkwo,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+026,PE 096,WEIGHT TRAINING,E. Boateng,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+015,PE 098,YOGA,H. Alvarez,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,PE 098,YOGA,K. Gutierrez,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,PH 001,INTRODUCTORY PHYSICS,A. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+021,PH 001,INTRODUCTORY PHYSICS,K. Okonkwo,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,PH 002A,COLLEGE PHYSICS,C. Villanueva,MW,11:10-12:35,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+028,PH 002A,COLLEGE PHYSICS,M. Mbeki,MWF,10:00-10:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+036,PH 002A,COLLEGE PHYSICS,C. Villanueva,T,18:00-20:50,CMC Main,2025-2026,BIOLOGY,Fall;Spring,every_term
+W01,PH 002B,COLLEGE PHYSICS,T. Villanueva,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+021,PH 002B,COLLEGE PHYSICS,R. Delgado,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+038,PH 002B,COLLEGE PHYSICS,C. Alvarez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,PH 004A,PHYSICS FOR SCIENTISTS AND ENGINEERS,C. Boateng,M,18:00-20:50,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+026,PH 004A,PHYSICS FOR SCIENTISTS AND ENGINEERS,N. Nakamura,W,18:00-20:50,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+033,PH 004A,PHYSICS FOR SCIENTISTS AND ENGINEERS,C. Halvorsen,TTh,12:45-14:10,CMC Main,2025-2026,COMPUTER SCIENCE,Fall;Spring,every_term
+018,PH 004B,PHYSICS FOR SCIENTISTS AND ENGINEERS,C. Alvarez,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W02,PH 004B,PHYSICS FOR SCIENTISTS AND ENGINEERS,M. Kowalski,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+016,PH 004C,PHYSICS FOR SCIENTISTS AND ENGINEERS,K. Nakamura,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,PH 005,COMPUTER PROGRAMMING FOR SCIENTISTS AND ENGINEERS,N. Okonkwo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+025,PH 005,COMPUTER PROGRAMMING FOR SCIENTISTS AND ENGINEERS,B. Castillo,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,PH 005,COMPUTER PROGRAMMING FOR SCIENTISTS AND ENGINEERS,M. Ibarra,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,PHIL 006,INTRODUCTION TO PHILOSOPHY,D. Eriksen,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+W02,PHIL 006,INTRODUCTION TO PHILOSOPHY,B. Boateng,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+018,PHIL 008,PHILOSOPHY FROM ANCIENT TIMES TO THE RENAISSANCE,B. Fontaine,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+016,PHIL 010,GENERAL LOGIC,L. Ibarra,M,18:00-20:50,CMC Main,2025-2026,HISTORY,Fall,fall_only
+023,PHIL 010,GENERAL LOGIC,A. Villanueva,MWF,13:00-13:50,CMC Main,2025-2026,HISTORY,Fall,fall_only
+035,PHIL 010,GENERAL LOGIC,A. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,HISTORY,Fall,fall_only
+018,PHIL 012,RELIGIONS OF THE WORLD,H. Yamada,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,PHIL 013,PERSPECTIVES ON DEATH AND DYING,E. Quintero,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,PHIL 013,PERSPECTIVES ON DEATH AND DYING,R. Lindqvist,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,PHIL 013,PERSPECTIVES ON DEATH AND DYING,T. Alvarez,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,PHIL 014,INTRODUCTION TO ETHICS,J. Boateng,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,PHIL 014,INTRODUCTION TO ETHICS,P. Eriksen,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,PHIL 014,INTRODUCTION TO ETHICS,T. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,POLS C1000,AMERICAN GOVERNMENT AND POLITICS,L. Villanueva,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W01,PS 001,INTRODUCTION TO GOVERNMENT,L. Nakamura,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+027,PS 001,INTRODUCTION TO GOVERNMENT,R. Fontaine,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+032,PS 001,INTRODUCTION TO GOVERNMENT,N. Okonkwo,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,PS 002,INTRODUCTION TO COMPARATIVE GOVERNMENTS,K. Eriksen,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+025,PS 002,INTRODUCTION TO COMPARATIVE GOVERNMENTS,R. Fontaine,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+017,PS 004,INTRODUCTION TO INTERNATIONAL RELATIONS,J. Whitfield,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,PSY 001,GENERAL PSYCHOLOGY,P. Ibarra,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+028,PSY 001,GENERAL PSYCHOLOGY,B. Okonkwo,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+032,PSY 001,GENERAL PSYCHOLOGY,K. Yamada,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+014,PSY 003,DEVELOPMENTAL PSYCHOLOGY,C. Delgado,M,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+028,PSY 003,DEVELOPMENTAL PSYCHOLOGY,V. Halvorsen,S,09:00-13:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+036,PSY 003,DEVELOPMENTAL PSYCHOLOGY,M. Halvorsen,T,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+017,PSY 005,BEHAVIORAL AND SOCIAL SCIENCE RESEARCH METHODS,T. Castillo,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,PSY 005,BEHAVIORAL AND SOCIAL SCIENCE RESEARCH METHODS,C. Quintero,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,PSY 010,INTRODUCTION TO MARRIAGE AND FAMILY,C. Tanaka,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,PSY 010,INTRODUCTION TO MARRIAGE AND FAMILY,J. Whitfield,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,PSY 012,HUMAN SEXUALITY,J. Eriksen,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,PSY 012,HUMAN SEXUALITY,E. Lindqvist,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,PSY 033,PERSONAL AND SOCIAL ADJUSTMENT,H. Alvarez,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,PSY 033,PERSONAL AND SOCIAL ADJUSTMENT,J. Boateng,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+031,PSY 033,PERSONAL AND SOCIAL ADJUSTMENT,M. Okonkwo,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,PSYC C1000,INTRODUCTION TO PSYCHOLOGY,K. Kowalski,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,RDG 051,COLLEGE PREPARATORY READING,K. Petrova,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+011,RDG 055,FOUNDATIONS OF READING,L. Fontaine,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+026,RDG 055,FOUNDATIONS OF READING,L. Quintero,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+016,REAL 081,PRINCIPLES OF REAL ESTATE,R. Boateng,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+022,REAL 081,PRINCIPLES OF REAL ESTATE,T. Okonkwo,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+038,REAL 081,PRINCIPLES OF REAL ESTATE,E. Fontaine,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,REAL 082,REAL ESTATE ECONOMICS,S. Gutierrez,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+024,REAL 082,REAL ESTATE ECONOMICS,L. Yamada,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+032,REAL 082,REAL ESTATE ECONOMICS,R. Halvorsen,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+013,REAL 083A,REAL ESTATE PRACTICE,C. Fontaine,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,REAL 083A,REAL ESTATE PRACTICE,H. Tanaka,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,REAL 083A,REAL ESTATE PRACTICE,N. Alvarez,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+015,REAL 084,LEGAL ASPECTS OF REAL ESTATE,D. Kowalski,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+028,REAL 084,LEGAL ASPECTS OF REAL ESTATE,P. Lindqvist,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+016,REAL 085,REAL ESTATE FINANCE,P. Ibarra,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,REAL 086,PRINCIPLES OF APPRAISING,D. Ibarra,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,REAL 086,PRINCIPLES OF APPRAISING,J. Alvarez,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,REAL 086,PRINCIPLES OF APPRAISING,N. Delgado,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,SOC 001,INTRODUCTION TO SOCIOLOGY,J. Alvarez,S,09:00-13:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+021,SOC 001,INTRODUCTION TO SOCIOLOGY,P. Ibarra,Th,18:00-20:50,CMC Main,2025-2026,REGISTERED NURSING,Fall;Spring,every_term
+017,SOC 002,SOCIAL PROBLEMS,E. Yamada,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,SOC 002,SOCIAL PROBLEMS,A. Gutierrez,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+032,SOC 002,SOCIAL PROBLEMS,M. Yamada,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,SOC 003,FUNDAMENTALS OF STATISTICS,E. Ibarra,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+016,SOC 004,SOCIOLOGICAL ANALYSIS AND CRITICAL THINKING,D. Delgado,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+026,SOC 004,SOCIOLOGICAL ANALYSIS AND CRITICAL THINKING,B. Petrova,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,SOC 010,INTRODUCTION TO MARRIAGE AND FAMILY,V. Boateng,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,SOC 010,INTRODUCTION TO MARRIAGE AND FAMILY,T. Whitfield,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+031,SOC 010,INTRODUCTION TO MARRIAGE AND FAMILY,L. Quintero,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,SOC 014,INTRODUCTION TO RACE AND ETHNICITY,L. Petrova,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,SOC 014,INTRODUCTION TO RACE AND ETHNICITY,P. Gutierrez,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+035,SOC 014,INTRODUCTION TO RACE AND ETHNICITY,P. Rahman,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+014,SP 001,INTERPERSONAL COMMUNICATION,L. Nakamura,MWF,13:00-13:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+023,SP 001,INTERPERSONAL COMMUNICATION,R. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+015,SP 002,ORAL INTERPRETATION OF LITERATURE,R. Tanaka,M,18:00-20:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+027,SP 002,ORAL INTERPRETATION OF LITERATURE,S. Okonkwo,TTh,12:45-14:10,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+034,SP 002,ORAL INTERPRETATION OF LITERATURE,R. Whitfield,MWF,13:00-13:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+010,SP 004,PUBLIC SPEAKING,T. Fontaine,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+024,SP 004,PUBLIC SPEAKING,A. Quintero,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+034,SP 004,PUBLIC SPEAKING,E. Okonkwo,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,SP 007,DECISION-MAKING AND ADVOCACY,T. Ustinov,TTh,09:35-11:00,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+022,SP 007,DECISION-MAKING AND ADVOCACY,R. Kowalski,W,18:00-20:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+037,SP 007,DECISION-MAKING AND ADVOCACY,K. Mbeki,T,18:00-20:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+013,SP 015,INTERCULTURAL COMMUNICATION,B. Lindqvist,M,18:00-20:50,CMC Main,2025-2026,COMMUNICATION STUDIES 2.0,Fall;Spring,every_term
+015,SPAN 001,ELEMENTARY SPANISH,N. Alvarez,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+022,SPAN 001,ELEMENTARY SPANISH,L. Kowalski,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,SPAN 001,ELEMENTARY SPANISH,C. Ibarra,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,SPAN 002,ELEMENTARY SPANISH II,L. Boateng,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+018,SPAN 003,INTERMEDIATE SPANISH I,K. Whitfield,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,SPAN 004,INTERMEDIATE SPANISH II,K. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+010,STAT C1000,INTRODUCTION TO STATISTICS,L. Okonkwo,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+024,STAT C1000,INTRODUCTION TO STATISTICS,P. Lindqvist,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+013,STDV 062,INTRODUCTION TO SCHOLARSHIPS,L. Fontaine,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+012,STDV 065,COLLEGE AND PERSONAL SUCCESS,E. Nakamura,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+021,STDV 065,COLLEGE AND PERSONAL SUCCESS,L. Fontaine,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_alternate_years
+W03,STDV 065,COLLEGE AND PERSONAL SUCCESS,S. Kowalski,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_alternate_years
+016,SW 015,INTRODUCTION TO SOCIAL WORK,J. Fontaine,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+022,SW 015,INTRODUCTION TO SOCIAL WORK,N. Gutierrez,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+030,SW 015,INTRODUCTION TO SOCIAL WORK,C. Nakamura,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,TA 001,INTRODUCTION TO THEATRE,E. Fontaine,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+020,TA 001,INTRODUCTION TO THEATRE,C. Ibarra,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+013,TA 002,ACTING I,H. Mbeki,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Spring,spring_only
+018,TA 003,ACTING II,K. Ibarra,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+027,TA 003,ACTING II,L. Halvorsen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,TA 003,ACTING II,B. Tanaka,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+014,VSM 002C,INTERCOLLEGIATE BASKETBALL FALL - MEN,L. Quintero,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall,fall_only
+020,VSM 002C,INTERCOLLEGIATE BASKETBALL FALL - MEN,B. Quintero,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,VSM 002D,INTERCOLLEGIATE BASKETBALL SPRING - MEN,M. Nakamura,MW,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall,fall_only
+023,VSM 002D,INTERCOLLEGIATE BASKETBALL SPRING - MEN,T. Nakamura,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W03,VSM 002D,INTERCOLLEGIATE BASKETBALL SPRING - MEN,A. Gutierrez,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+014,VSO 001A,INTERCOLLEGIATE BASKETBALL PRE-SEASON CONDITIONING - WOMEN,H. Kowalski,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+017,VSO 001B,INTERCOLLEGIATE BASKETBALL PRE-SEASON CONDITIONING - MEN,H. Eriksen,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall,fall_only
+024,VSO 001B,INTERCOLLEGIATE BASKETBALL PRE-SEASON CONDITIONING - MEN,S. Eriksen,MWF,10:00-10:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+010,VSO 003A,INTERCOLLEGIATE VARSITY SPORTS OFF-SEASON CONDITIONING - WOMEN,D. Eriksen,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+028,VSO 003A,INTERCOLLEGIATE VARSITY SPORTS OFF-SEASON CONDITIONING - WOMEN,A. Halvorsen,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+038,VSO 003A,INTERCOLLEGIATE VARSITY SPORTS OFF-SEASON CONDITIONING - WOMEN,K. Ustinov,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+W01,VSO 003B,INTERCOLLEGIATE BASKETBALL OFF-SEASON CONDITIONING - MEN,S. Halvorsen,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Spring,spring_only
+021,VSO 003B,INTERCOLLEGIATE BASKETBALL OFF-SEASON CONDITIONING - MEN,A. Kowalski,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Spring,spring_only
+014,VSW 002A,INTERCOLLEGIATE VARSITY SPORTS PRE-CONFERENCE SEASON - WOMEN,H. Ibarra,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+016,VSW 002B,INTERCOLLEGIATE VARSITY SPORTS CONFERENCE SEASON - WOMEN,M. Boateng,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+W02,VSW 002B,INTERCOLLEGIATE VARSITY SPORTS CONFERENCE SEASON - WOMEN,P. Ustinov,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_only
+011,WEG 080,WORK EXPERIENCE - GENERAL,L. Ibarra,W,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,WEG 080,WORK EXPERIENCE - GENERAL,D. Boateng,MW,11:10-12:35,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,WEG 081,WORK EXPERIENCE - GENERAL,P. Ibarra,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,WEG 082,WORK EXPERIENCE - GENERAL,C. Ibarra,TTh,08:00-09:25,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W02,WEG 082,WORK EXPERIENCE - GENERAL,R. Petrova,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+034,WEG 082,WORK EXPERIENCE - GENERAL,J. Halvorsen,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+010,WTEC 040,CAREER PATHWAYS IN WATER TECHNOLOGY,R. Rahman,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+028,WTEC 040,CAREER PATHWAYS IN WATER TECHNOLOGY,C. Yamada,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+W01,WTEC 049,CALCULATIONS IN WATER/WASTEWATER TECHNOLOGY,R. Kowalski,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall;Spring,every_term
+024,WTEC 049,CALCULATIONS IN WATER/WASTEWATER TECHNOLOGY,H. Alvarez,Th,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+030,WTEC 049,CALCULATIONS IN WATER/WASTEWATER TECHNOLOGY,V. Kowalski,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+011,WTEC 052,FUNDAMENTALS OF WATER AND WASTEWATER,L. Gutierrez,M,18:00-20:50,CMC Main,2025-2026,General education / elective,Spring,spring_only
+025,WTEC 052,FUNDAMENTALS OF WATER AND WASTEWATER,T. Villanueva,MW,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+038,WTEC 052,FUNDAMENTALS OF WATER AND WASTEWATER,H. Kowalski,TTh,09:35-11:00,CMC Main,2025-2026,General education / elective,Spring,spring_only
+014,WTEC 053,WATER DISTRIBUTION SYSTEMS,V. Gutierrez,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+028,WTEC 053,WATER DISTRIBUTION SYSTEMS,S. Villanueva,MWF,13:00-13:50,CMC Main,2025-2026,General education / elective,Fall,fall_only
+013,WTEC 054,BASIC PLANT OPERATIONS: WASTEWATER TREATMENT,D. Petrova,S,09:00-13:50,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+021,WTEC 054,BASIC PLANT OPERATIONS: WASTEWATER TREATMENT,R. Boateng,TTh,12:45-14:10,CMC Main,2025-2026,General education / elective,Fall;Spring,every_term
+017,WTEC 055,BASIC PLANT OPERATIONS: WATER TREATMENT,K. Ustinov,T,18:00-20:50,CMC Main,2025-2026,General education / elective,Fall,fall_alternate_years
+W02,WTEC 055,BASIC PLANT OPERATIONS: WATER TREATMENT,R. Lindqvist,Async,n/a (async),DE (distance ed),2025-2026,General education / elective,Fall,fall_alternate_years

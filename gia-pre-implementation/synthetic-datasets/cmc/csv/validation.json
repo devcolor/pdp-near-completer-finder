@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "source_commit": "8e892c6aea5c9f725b071498fd83490ad70fcbbc",
+  "students": 1000,
+  "profiles": 1000,
+  "course_enrollments": 15797,
+  "catalogs_used": [
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024",
+    "2024-2025",
+    "2025-2026"
+  ],
+  "programs": {
+    "ALTERNATIVE FUEL VEHICLES": 143,
+    "BIOLOGY": 48,
+    "BUSINESS ADMINISTRATION": 143,
+    "COMMUNICATION STUDIES 2.0": 143,
+    "COMPUTER NETWORK": 45,
+    "COMPUTER SCIENCE": 50,
+    "CRIMINAL JUSTICE": 143,
+    "EARLY CHILDHOOD EDUCATION": 92,
+    "HISTORY": 50,
+    "REGISTERED NURSING": 143
+  },
+  "progress": {
+    "Continuing": 342,
+    "Early progress": 195,
+    "Core complete": 156,
+    "Near completer": 257,
+    "CVC a la carte (not a stop-out)": 50
+  },
+  "current_dual_enrollment": {
+    "Unknown": 57,
+    "No": 864,
+    "Yes": 79
+  },
+  "retention": {
+    "1": 866,
+    "0": 134
+  },
+  "persistence": {
+    "0": 762,
+    "1": 238
+  },
+  "checks": [
+    "unique student/enrollment IDs",
+    "profile/student/course joins",
+    "exact catalog code/title/units matching",
+    "year-one credit sums",
+    "core credits balance",
+    "in-progress enrollment consistency",
+    "positive/negative gateway and retention/persistence outcomes",
+    "failed and withdrawn courses",
+    "CSV roundtrip row counts"
+  ]
+}

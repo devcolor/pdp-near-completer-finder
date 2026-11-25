@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "fastapi",
+  "buildCommand": "rm -rf synthetic-datasets && cp -R ../../gia-pre-implementation/synthetic-datasets synthetic-datasets"
+}

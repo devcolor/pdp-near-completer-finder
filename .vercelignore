@@ -1,0 +1,22 @@
+# What the Vercel CLI leaves out when it uploads the API project from the repo root.
+# The web app deploys from its own folder (playground/client_application), so it is excluded here.
+.git
+**/.venv
+**/node_modules
+**/__pycache__
+**/.pytest_cache
+playground/client_application
+notebooks
+mcp
+measures
+gap_finder
+docs
+*.db
+*.sqlite
+*.sqlite3
+gia-pre-implementation/raw_course_catalogs
+normalized-data-model/data
+normalized-data-model/output
+normalized-data-model/logs
+normalized-data-model/tests
+data/raw

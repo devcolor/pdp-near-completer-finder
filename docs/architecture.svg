@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">How the repository is structured</title>
+  <desc id="desc">Data files are validated and processed by the FastAPI server, returned as JSON to the Next.js client, and reviewed by campus staff before action.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 14 14" refX="11" refY="7" markerWidth="9" markerHeight="9" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#667085"/></marker>
+    <style>
+      .title{font-family:Arial,sans-serif;font-size:44px;font-weight:700;fill:#14213d}.sub{font-family:Arial,sans-serif;font-size:22px;fill:#596579}.tag{font-family:Arial,sans-serif;font-size:17px;font-weight:700;fill:#197a81}.head{font-family:Arial,sans-serif;font-size:29px;font-weight:700;fill:#174a56}.body{font-family:Arial,sans-serif;font-size:20px;fill:#48566b}.arrowlabel{font-family:Arial,sans-serif;font-size:17px;font-weight:700;fill:#596579}.amber-head{font-family:Arial,sans-serif;font-size:27px;font-weight:700;fill:#825000}.note{font-family:Arial,sans-serif;font-size:18px;fill:#48566b}
+    </style>
+  </defs>
+  <rect width="1600" height="700" fill="#fff"/>
+  <text class="title" x="800" y="64" text-anchor="middle">How the repository is structured</text>
+  <text class="sub" x="800" y="98" text-anchor="middle">Data flows from CSV files through the server to the dashboard.</text>
+
+  <line x1="480" y1="315" x2="600" y2="315" stroke="#667085" stroke-width="7" marker-end="url(#arrow)"/>
+  <line x1="1000" y1="315" x2="1120" y2="315" stroke="#667085" stroke-width="7" marker-end="url(#arrow)"/>
+  <text class="arrowlabel" x="540" y="278" text-anchor="middle">CSV files</text>
+  <text class="arrowlabel" x="1060" y="278" text-anchor="middle">JSON API</text>
+
+  <g>
+    <rect x="70" y="140" rx="23" width="410" height="370" fill="#edf8f8" stroke="#197a81" stroke-width="4"/>
+    <text class="tag" x="110" y="190">DATA INPUTS</text>
+    <text class="head" x="110" y="240"><tspan x="110" dy="0">Synthetic or</tspan><tspan x="110" dy="34">campus CSVs</tspan></text>
+    <text class="body" x="110" y="320"><tspan x="110" dy="0">Bundled files live in</tspan><tspan x="110" dy="30">gia-pre-implementation/</tspan><tspan x="110" dy="30">synthetic-datasets/.</tspan><tspan x="110" dy="44">A campus can upload:</tspan><tspan x="110" dy="30">students, profile, course schedule,</tspan><tspan x="110" dy="30">and course detail CSVs.</tspan></text>
+  </g>
+  <g>
+    <rect x="600" y="140" rx="23" width="400" height="370" fill="#edf8f8" stroke="#197a81" stroke-width="4"/>
+    <text class="tag" x="640" y="190">SERVER APPLICATION · FASTAPI</text>
+    <text class="head" x="640" y="240">Validate, calculate, serve</text>
+    <text class="body" x="640" y="300"><tspan x="640" dy="0">institution_dashboard/uploads.py</tspan><tspan x="640" dy="30">checks file columns and pdp_year.</tspan><tspan x="640" dy="44">institution_dashboard/data.py</tspan><tspan x="640" dy="30">builds stop-out, near-completer,</tspan><tspan x="640" dy="30">hold, and course views.</tspan></text>
+  </g>
+  <g>
+    <rect x="1120" y="140" rx="23" width="410" height="370" fill="#edf8f8" stroke="#197a81" stroke-width="4"/>
+    <text class="tag" x="1160" y="190">CLIENT APPLICATION · NEXT.JS</text>
+    <text class="head" x="1160" y="240">Dashboard views</text>
+    <text class="body" x="1160" y="300"><tspan x="1160" dy="0">dashboard/* fetches API data</tspan><tspan x="1160" dy="30">and renders Executive, Student</tspan><tspan x="1160" dy="30">Services, Academic Hold,</tspan><tspan x="1160" dy="30">Financial Hold, and Upload.</tspan><tspan x="1160" dy="44">Filters and detail views stay</tspan><tspan x="1160" dy="30">inside the browser app.</tspan></text>
+  </g>
+
+  <line x1="800" y1="510" x2="800" y2="540" stroke="#667085" stroke-width="7" marker-end="url(#arrow)"/>
+  <g>
+    <rect x="320" y="560" rx="18" width="960" height="110" fill="#fff6e4" stroke="#c77800" stroke-width="4"/>
+    <text class="amber-head" x="365" y="600">Campus staff validate before acting</text>
+    <text class="note" x="365" y="630"><tspan x="365" dy="0">The current repo uses synthetic data. A real deployment needs confirmed definitions,</tspan><tspan x="365" dy="24">access controls, and privacy review.</tspan></text>
+  </g>
+</svg>

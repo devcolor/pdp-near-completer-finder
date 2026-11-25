@@ -1,0 +1,9 @@
+target_program,catalog_year,award_type,program_id,pathway_courses_on_program_list,program_courses_covered,match,note
+Building Construction Technology (synthetic pathway),2026-2027,"Building Construction Technology , AS",poid-123,7 of 8,70%,good,The Certificate of Achievement matches equally well
+Business Administration (synthetic pathway),2026-2027,"Small Business, Certificate of Achievement",poid-615,6 of 8,75%,good,"Liberal Arts AA (Business and Technology) has more of the pathway on its list, but covers 35%"
+Child Development (synthetic pathway),2026-2027,"Child Development , AS",poid-125,8 of 8,36%,weak,The pathway is a third of the real program
+Computer Information Systems (synthetic pathway),2026-2027,"Computer Information Systems , AS",poid-126,8 of 8,62%,good,
+Fire Science Technology (synthetic pathway),2026-2027,"Fire Science Technology, AS",poid-128,8 of 8,11%,weak,The pathway is a small part of the real program; these students will look far from completion
+Arts & Humanities (synthetic pathway),2026-2027,"Liberal Arts, AA - Emphasis in Arts and Humanities",poid-116,6 of 8,20%,weak,Liberal Arts lets students pick from long lists
+Social & Behavioral Sciences (synthetic pathway),2026-2027,"Liberal Arts, AA - Emphasis in Social and Behavior Science",poid-119,7 of 8,23%,weak,Liberal Arts lets students pick from long lists
+Welding Technology (synthetic pathway),2026-2027,"Welding Technology , AS",poid-130,8 of 8,53%,good,The Certificate of Achievement covers 75%

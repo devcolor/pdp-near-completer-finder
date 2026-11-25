@@ -1,0 +1,871 @@
+﻿section,course_code,course_title,instructor,meeting_day,meeting_time,location,catalog_year,program,terms_offered,offering_pattern
+011,ACC 100,Basic Accounting,M. Alvarez,MWF,13:00-13:50,College 2 Main,2026-2027,Business,Fall,fall_only
+W02,ACC 100,Basic Accounting,M. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,Business,Fall,fall_only
+013,ACC 101,Principles of Accounting I,E. Lindqvist,T,18:00-20:50,Prison,2026-2027,Business,Fall;Spring,every_term
+018,ACC 102,PRINCIPLES OF ACCOUNTING II,L. Tanaka,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W02,ACC 102,PRINCIPLES OF ACCOUNTING II,V. Petrova,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+033,ACC 102,PRINCIPLES OF ACCOUNTING II,A. Ustinov,MWF,10:00-10:50,College 2 Satellite,2026-2027,General education / elective,Fall,fall_only
+015,ACC 103,Accounting with QuickBooks,R. Okonkwo,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+021,ACC 103,Accounting with QuickBooks,L. Fontaine,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+037,ACC 103,Accounting with QuickBooks,D. Gutierrez,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+013,ADS 101,Introduction to Addiction Studies,V. Delgado,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,ADS 101,Introduction to Addiction Studies,J. Nakamura,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,ADS 102,Pharmacology and Physiological Effects of Addiction,P. Villanueva,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+022,ADS 102,Pharmacology and Physiological Effects of Addiction,A. Nakamura,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+035,ADS 102,Pharmacology and Physiological Effects of Addiction,D. Gutierrez,MW,08:00-09:25,College 2 Satellite,2026-2027,General education / elective,Spring,spring_only
+015,ADS 103,Case Management and Documentation,D. Boateng,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,ADS 104,Addiction Prevention Education and Outreach/Referral,A. Yamada,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,ADS 105,Co-occurring Disorders and Chemical Dependency,L. Eriksen,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,ADS 106,Crisis Intervention,C. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,ADS 107,Group Counseling,V. Gutierrez,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+024,ADS 107,Group Counseling,D. Petrova,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,ADS 107,Group Counseling,E. Okonkwo,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,ADS 108,Family Dynamics of Addictions,K. Lindqvist,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+011,ADS 109,Substance Abuse in Special Populations,L. Fontaine,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+021,ADS 109,Substance Abuse in Special Populations,D. Quintero,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+016,ADS 110,Introduction to Human Services,M. Halvorsen,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,ADS 110,Introduction to Human Services,C. Castillo,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+036,ADS 110,Introduction to Human Services,P. Eriksen,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+018,ADS 111,Law and Ethics in Alcohol and Drug Studies,P. Halvorsen,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+W02,ADS 111,Law and Ethics in Alcohol and Drug Studies,M. Eriksen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+036,ADS 111,Law and Ethics in Alcohol and Drug Studies,H. Yamada,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+011,ADS 150,PRACTICUM FOR ALCOHOL AND DRUG STUDIES I,P. Villanueva,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W02,ADS 150,PRACTICUM FOR ALCOHOL AND DRUG STUDIES I,R. Rahman,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W03,ADS 150,PRACTICUM FOR ALCOHOL AND DRUG STUDIES I,P. Quintero,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,ADS 151,PRACTICUM FOR ALCOHOL AND DRUG STUDIES II,L. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+018,AGR 080,Pesticide Safety,R. Quintero,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+024,AGR 080,Pesticide Safety,N. Lindqvist,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Spring,spring_only
+032,AGR 080,Pesticide Safety,R. Mbeki,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+012,AGR 120,Soil Science,M. Kowalski,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+027,AGR 120,Soil Science,R. Ustinov,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+011,AGR 140,Principles of Plant Science,V. Delgado,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+015,AGR 153,Irrigation and Drainage,A. Gutierrez,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+018,AGR 154,Irrigation Applications,N. Halvorsen,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+021,AGR 154,Irrigation Applications,P. Nakamura,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+037,AGR 154,Irrigation Applications,T. Halvorsen,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,AGR 155,Irrigation Systems Design,T. Petrova,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+017,AGR 170,Principles of Entomology,C. Kowalski,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+012,ANT 100,Introduction to Biological Anthropology,A. Villanueva,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,ANT 100,Introduction to Biological Anthropology,B. Mbeki,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+038,ANT 100,Introduction to Biological Anthropology,V. Alvarez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,ANT 101,Cultural Anthropology,P. Alvarez,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,ANT 102,"Aztecs, Maya, and Their Predecessors",C. Nakamura,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,ANT 102,"Aztecs, Maya, and Their Predecessors",S. Mbeki,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,ANT 107,"Magic, Witchcraft, and Religion",P. Gutierrez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,ANT 108,Introduction to Biological Anthropology Lab,V. Okonkwo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+022,ANT 108,Introduction to Biological Anthropology Lab,K. Whitfield,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,ANT 201,Introduction to Archaeology,N. Fontaine,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,ART 101,Introduction to Art,M. Ibarra,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+022,ART 101,Introduction to Art,R. Boateng,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,ART 105,DIGITAL PHOTOGRAPHY,T. Nakamura,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,ART 105,DIGITAL PHOTOGRAPHY,J. Yamada,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+030,ART 105,DIGITAL PHOTOGRAPHY,L. Alvarez,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,ART 106,Advanced Digital Photography,S. Castillo,S,09:00-13:50,Prison,2026-2027,Humanities,Fall;Spring,every_term
+014,ART 107,Intermediate Digital Photography,R. Yamada,TTh,09:35-11:00,Prison,2026-2027,Humanities,Fall;Spring,every_term
+025,ART 107,Intermediate Digital Photography,A. Rahman,M,18:00-20:50,Prison,2026-2027,Humanities,Fall;Spring,every_term
+035,ART 107,Intermediate Digital Photography,R. Rahman,TTh,09:35-11:00,Prison,2026-2027,Humanities,Fall;Spring,every_term
+015,ART 110,Survey of Western Art from Prehistoric through the Middle Ages,E. Quintero,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+026,ART 110,Survey of Western Art from Prehistoric through the Middle Ages,K. Ustinov,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,ART 111,Art History and Appreciation II,S. Ustinov,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+027,ART 111,Art History and Appreciation II,S. Boateng,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+031,ART 111,Art History and Appreciation II,J. Whitfield,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+012,ART 120,Basic Painting Design and Color,T. Delgado,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,ART 125,Beginning Drawing and Composition,A. Rahman,MW,11:10-12:35,Prison,2026-2027,Humanities,Fall;Spring,every_term
+012,ART 230,Introduction to Ceramics: Throwing,J. Mbeki,MW,08:00-09:25,Prison,2026-2027,Humanities,Fall;Spring,every_term
+025,ART 230,Introduction to Ceramics: Throwing,A. Castillo,MW,11:10-12:35,College 2 Main,2026-2027,Humanities,Fall;Spring,every_term
+W01,ASL 131,AMERICAN SIGN LANGUAGE I,H. Delgado,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W02,ASL 131,AMERICAN SIGN LANGUAGE I,L. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,ASL 132,American Sign Language II,T. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+W02,ASL 132,American Sign Language II,H. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+030,ASL 132,American Sign Language II,C. Boateng,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+015,ASL 134,AMERICAN SIGN LANGUAGE III,V. Mbeki,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+023,ASL 134,AMERICAN SIGN LANGUAGE III,A. Eriksen,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+W03,ASL 134,AMERICAN SIGN LANGUAGE III,S. Petrova,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+W01,ASL 135,American Sign Language IV,N. Whitfield,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+024,ASL 135,American Sign Language IV,E. Ibarra,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,AST 101,Introductory Astronomy,N. Nakamura,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+011,AST 105,Astronomy: The Solar System,N. Kowalski,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,AST 110,Astronomy: Beyond the Solar System,A. Mbeki,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+022,AST 110,Astronomy: Beyond the Solar System,K. Okonkwo,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,AST 110,Astronomy: Beyond the Solar System,K. Fontaine,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+014,ATH 101,"Intercollegiate Basketball for Women, Fall Semester",M. Gutierrez,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+017,ATH 102,"Intercollegiate Basketball for Women, Spring Semester",M. Yamada,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+024,ATH 102,"Intercollegiate Basketball for Women, Spring Semester",H. Okonkwo,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+033,ATH 102,"Intercollegiate Basketball for Women, Spring Semester",N. Gutierrez,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+017,ATH 103,"Intercollegiate Basketball for Men, Fall Semester",A. Rahman,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+022,ATH 103,"Intercollegiate Basketball for Men, Fall Semester",J. Alvarez,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+017,ATH 104,"Intercollegiate Basketball for Men, Spring Semester",H. Delgado,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,ATH 104,"Intercollegiate Basketball for Men, Spring Semester",V. Villanueva,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+036,ATH 104,"Intercollegiate Basketball for Men, Spring Semester",E. Tanaka,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,ATH 107,Intercollegiate Golf for Women,E. Kowalski,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+020,ATH 107,Intercollegiate Golf for Women,J. Lindqvist,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+014,ATH 108,Intercollegiate Golf for Men,C. Ibarra,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+024,ATH 108,Intercollegiate Golf for Men,T. Ustinov,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+013,AUT 100,Introduction to Automotive Technology,T. Castillo,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,AUT 100,Introduction to Automotive Technology,S. Rahman,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,AUT 100,Introduction to Automotive Technology,P. Alvarez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,AUT 101,Basic Technician Skills,E. Whitfield,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+026,AUT 101,Basic Technician Skills,M. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+034,AUT 101,Basic Technician Skills,C. Kowalski,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,AUT 102,Engine Analysis/Tune-up,J. Whitfield,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+022,AUT 102,Engine Analysis/Tune-up,V. Gutierrez,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+030,AUT 102,Engine Analysis/Tune-up,R. Alvarez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+010,AUT 103,"Suspension, Steering and Alignment",T. Lindqvist,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,AUT 107,Beginning Auto Technology,J. Ibarra,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,AUT 108,Engine Performance Heating and Air Conditioning,M. Gutierrez,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+023,AUT 108,Engine Performance Heating and Air Conditioning,J. Fontaine,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+030,AUT 108,Engine Performance Heating and Air Conditioning,V. Okonkwo,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,AUT 109,"Brakes, Suspension Steering Drive Trains and Transmissions",K. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+023,AUT 109,"Brakes, Suspension Steering Drive Trains and Transmissions",J. Nakamura,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,AUT 110,Brake Systems,N. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_alternate_years
+020,AUT 110,Brake Systems,L. Nakamura,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+030,AUT 110,Brake Systems,M. Nakamura,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+011,AUT 111,Automotive Electrical Systems,E. Whitfield,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+026,AUT 111,Automotive Electrical Systems,E. Halvorsen,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+036,AUT 111,Automotive Electrical Systems,C. Ustinov,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+010,AUT 220,"Introduction to Hybrid, Electric Vehicle and Alternative Propulsion Technology",D. Alvarez,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+017,BCT 100,Introduction to Building Trades,B. Nakamura,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,BCT 100,Introduction to Building Trades,C. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+032,BCT 100,Introduction to Building Trades,E. Gutierrez,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+014,BCT 101,Rough Carpentry,B. Rahman,MW,11:10-12:35,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+016,BCT 102,Advanced Framing Techniques,D. Castillo,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,BCT 110,Blueprint Reading,P. Delgado,TTh,08:00-09:25,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+W02,BCT 110,Blueprint Reading,K. Whitfield,Async,n/a (async),DE (distance ed),2026-2027,Building Construction,Fall;Spring,every_term
+013,BCT 112,Basic Electricity,M. Okonkwo,MWF,10:00-10:50,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+018,BCT 113,Basic Plumbing,V. Delgado,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+021,BCT 113,Basic Plumbing,L. Lindqvist,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+030,BCT 113,Basic Plumbing,P. Tanaka,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+017,BCT 116,Basic House Wiring Theory,M. Delgado,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Spring,spring_only
+011,BCT 117,Residential Plumbing Theory,J. Yamada,Th,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+026,BCT 117,Residential Plumbing Theory,R. Halvorsen,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+030,BCT 117,Residential Plumbing Theory,V. Castillo,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+W01,BCT 200,Cabinetry I,T. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,Building Construction,Fall;Spring,every_term
+W01,BCT 201,Cabinetry II,M. Quintero,Async,n/a (async),DE (distance ed),2026-2027,Building Construction,Fall;Spring,every_term
+024,BCT 201,Cabinetry II,V. Tanaka,Th,18:00-20:50,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+030,BCT 201,Cabinetry II,N. Whitfield,TTh,09:35-11:00,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+012,BCT 202,Finish Cabinetry,P. Kowalski,M,18:00-20:50,College 2 Main,2026-2027,Building Construction,Fall;Spring,every_term
+022,BCT 202,Finish Cabinetry,A. Ibarra,Th,18:00-20:50,College 2 Main,2026-2027,Building Construction,Fall;Spring,every_term
+036,BCT 202,Finish Cabinetry,R. Halvorsen,S,09:00-13:50,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+015,BCT 203,Photovoltaic Installation Theory,D. Whitfield,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+012,BCT 205,Equipment Operations,R. Ibarra,M,18:00-20:50,Prison,2026-2027,Building Construction,Spring,spring_only
+012,BCT 210,Interior Trim Carpentry,E. Gutierrez,MW,11:10-12:35,College 2 Satellite,2026-2027,Building Construction,Fall;Spring,every_term
+026,BCT 210,Interior Trim Carpentry,C. Rahman,TTh,08:00-09:25,Prison,2026-2027,Building Construction,Fall;Spring,every_term
+016,BCT 212,Masonry Construction,C. Delgado,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+012,BCT 220,Photovoltaic Systems,P. Ibarra,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,BIO 100,Introduction to Biology,B. Kowalski,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+025,BIO 100,Introduction to Biology,J. Tanaka,W,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+015,BIO 101,Introduction to Biology Laboratory,J. Villanueva,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+018,BIO 110,BASICS OF BIOLOGY,V. Castillo,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+020,BIO 110,BASICS OF BIOLOGY,K. Mbeki,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+012,BIO 111,Basic Microbiology,J. Ibarra,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+025,BIO 111,Basic Microbiology,N. Quintero,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+014,BIO 190,Biology Sequence I for Majors,P. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+024,BIO 190,Biology Sequence I for Majors,V. Alvarez,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+037,BIO 190,Biology Sequence I for Majors,D. Okonkwo,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+012,BIO 191,Biology Sequence II for Majors,J. Villanueva,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,BIO 191,Biology Sequence II for Majors,C. Quintero,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,BIO 210,Human Anatomy,V. Nakamura,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+021,BIO 210,Human Anatomy,J. Quintero,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+014,BIO 211,Human Physiology,D. Boateng,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,BUS 101,Introduction to Business,J. Whitfield,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+022,BUS 101,Introduction to Business,A. Nakamura,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,BUS 101,Introduction to Business,V. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+015,BUS 103,PERSONAL FINANCE,D. Eriksen,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+020,BUS 103,PERSONAL FINANCE,J. Castillo,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,BUS 103,PERSONAL FINANCE,V. Delgado,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+017,BUS 104,Small Business and Entrepreneurship,E. Alvarez,MW,11:10-12:35,Prison,2026-2027,Business,Spring,spring_only
+023,BUS 104,Small Business and Entrepreneurship,M. Delgado,Th,18:00-20:50,Prison,2026-2027,Business,Spring,spring_only
+033,BUS 104,Small Business and Entrepreneurship,C. Boateng,S,09:00-13:50,College 2 Main,2026-2027,Business,Spring,spring_only
+010,BUS 105,Business Mathematics,H. Lindqvist,Th,18:00-20:50,Prison,2026-2027,Business,Fall;Spring,every_term
+W02,BUS 105,Business Mathematics,M. Boateng,Async,n/a (async),DE (distance ed),2026-2027,Business,Fall;Spring,every_term
+036,BUS 105,Business Mathematics,R. Tanaka,MWF,10:00-10:50,College 2 Main,2026-2027,Business,Fall;Spring,every_term
+015,BUS 115,SMALL BUSINESS FINANCE,E. Whitfield,MW,09:35-11:00,College 2 Main,2026-2027,Business,Fall,fall_only
+022,BUS 115,SMALL BUSINESS FINANCE,C. Fontaine,MW,08:00-09:25,Prison,2026-2027,Business,Fall,fall_only
+038,BUS 115,SMALL BUSINESS FINANCE,H. Eriksen,TTh,09:35-11:00,Prison,2026-2027,Business,Fall,fall_only
+018,BUS 135,Business Law,L. Mbeki,Th,18:00-20:50,Prison,2026-2027,Business,Fall;Spring,every_term
+021,BUS 135,Business Law,M. Rahman,MWF,10:00-10:50,College 2 Main,2026-2027,Business,Fall;Spring,every_term
+037,BUS 135,Business Law,T. Quintero,M,18:00-20:50,Prison,2026-2027,Business,Fall;Spring,every_term
+018,BUS 140,Computer Information Systems- Computer Information,D. Mbeki,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+028,BUS 140,Computer Information Systems- Computer Information,B. Delgado,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,BUS 201,Principles of Organizational Leadership,R. Okonkwo,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+025,BUS 201,Principles of Organizational Leadership,J. Okonkwo,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,BUS 202,BUSINESS COMMUNICATION,P. Lindqvist,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,BUS 206,Marketing,R. Eriksen,MW,11:10-12:35,Prison,2026-2027,Business,Fall;Spring,every_term
+026,BUS 206,Marketing,S. Villanueva,S,09:00-13:50,Prison,2026-2027,Business,Fall;Spring,every_term
+W01,BUS 210,Business Ethics,P. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,Business,Fall;Spring,every_term
+028,BUS 210,Business Ethics,R. Kowalski,MWF,10:00-10:50,Prison,2026-2027,Business,Fall;Spring,every_term
+030,BUS 210,Business Ethics,C. Petrova,Th,18:00-20:50,Prison,2026-2027,Business,Fall;Spring,every_term
+010,BUS 221,Income Tax Procedure,K. Halvorsen,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+024,BUS 221,Income Tax Procedure,A. Fontaine,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,BUS 221,Income Tax Procedure,A. Petrova,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,CDEV C1000,Child Growth and Development,E. Petrova,Th,18:00-20:50,Prison,2026-2027,Child Development,Fall;Spring,every_term
+022,CDEV C1000,Child Growth and Development,B. Ustinov,MW,09:35-11:00,Prison,2026-2027,Child Development,Fall;Spring,every_term
+013,CHD 101,Child Growth and Development,H. Eriksen,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+025,CHD 101,Child Growth and Development,K. Alvarez,MW,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_only
+037,CHD 101,Child Growth and Development,S. Boateng,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_only
+017,CHD 102,"CHILD, FAMILY AND THE COMMUNITY",N. Gutierrez,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,CHD 102,"CHILD, FAMILY AND THE COMMUNITY",J. Mbeki,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,CHD 102,"CHILD, FAMILY AND THE COMMUNITY",T. Villanueva,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+015,CHD 103,Introduction to Curriculum,D. Lindqvist,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,CHD 103,Introduction to Curriculum,M. Villanueva,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,CHD 104,Principles and Practices of Teaching Young Children,K. Nakamura,T,18:00-20:50,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+011,CHD 105,Observation and Assessment,E. Boateng,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+010,CHD 106,"Health, Safety and Nutrition",S. Yamada,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Spring,spring_alternate_years
+026,CHD 106,"Health, Safety and Nutrition",A. Nakamura,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_alternate_years
+015,CHD 107,Teaching in a Diverse Society,N. Mbeki,M,18:00-20:50,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+023,CHD 107,Teaching in a Diverse Society,K. Alvarez,MW,11:10-12:35,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+038,CHD 107,Teaching in a Diverse Society,E. Boateng,MW,09:35-11:00,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+015,CHD 108,Practicum-Field Experience,J. Castillo,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+027,CHD 108,Practicum-Field Experience,N. Yamada,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+031,CHD 108,Practicum-Field Experience,H. Alvarez,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+010,CHD 111,Preparation in Education,M. Mbeki,MW,08:00-09:25,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+022,CHD 111,Preparation in Education,P. Castillo,Th,18:00-20:50,Prison,2026-2027,Child Development,Fall;Spring,every_term
+033,CHD 111,Preparation in Education,N. Kowalski,TTh,09:35-11:00,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+012,CHD 120,Developing Capable Young People,A. Nakamura,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+021,CHD 120,Developing Capable Young People,T. Ustinov,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,CHD 130,Art for Early Childhood,S. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+028,CHD 130,Art for Early Childhood,K. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W03,CHD 130,Art for Early Childhood,P. Rahman,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+011,CHD 131,Music for Early Childhood,D. Boateng,TTh,08:00-09:25,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+024,CHD 131,Music for Early Childhood,E. Quintero,MW,08:00-09:25,Prison,2026-2027,Child Development,Fall;Spring,every_term
+035,CHD 131,Music for Early Childhood,M. Gutierrez,TTh,12:45-14:10,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+016,CHD 135,Literature for Early Childhood,V. Quintero,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,CHD 145,Child Abuse and Neglect,D. Ibarra,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+022,CHD 145,Child Abuse and Neglect,V. Lindqvist,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+031,CHD 145,Child Abuse and Neglect,B. Lindqvist,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+013,CHD 205,Adult Supervision: Mentoring in a Collaborative Learning Setting,K. Lindqvist,TTh,12:45-14:10,Prison,2026-2027,Child Development,Fall;Spring,every_term
+024,CHD 205,Adult Supervision: Mentoring in a Collaborative Learning Setting,M. Rahman,TTh,08:00-09:25,Prison,2026-2027,Child Development,Fall;Spring,every_term
+033,CHD 205,Adult Supervision: Mentoring in a Collaborative Learning Setting,H. Whitfield,MWF,10:00-10:50,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+016,CHD 215,Administration I: Programs in Early Childhood Education,M. Rahman,MW,11:10-12:35,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+011,CHD 216,ADMINISTRATION II: PERSONNEL AND LEADERSHIP IN EARLY CHILDHOOD EDUCATION,P. Quintero,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,CHD 216,ADMINISTRATION II: PERSONNEL AND LEADERSHIP IN EARLY CHILDHOOD EDUCATION,A. Rahman,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,CHD 220,Infant and Toddler Development,B. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+027,CHD 220,Infant and Toddler Development,S. Eriksen,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,CHD 220,Infant and Toddler Development,S. Villanueva,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,CHD 221,Care and Education for Infants and Toddlers,V. Quintero,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+W02,CHD 221,Care and Education for Infants and Toddlers,T. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+010,CHD 227,Parenting Principles and Communications,T. Alvarez,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,CHD 227,Parenting Principles and Communications,K. Delgado,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+030,CHD 227,Parenting Principles and Communications,P. Fontaine,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,CHD 231,Math and Engineering in Early Childhood Education,A. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,Child Development,Fall;Spring,every_term
+021,CHD 231,Math and Engineering in Early Childhood Education,C. Fontaine,TTh,12:45-14:10,Prison,2026-2027,Child Development,Fall;Spring,every_term
+030,CHD 231,Math and Engineering in Early Childhood Education,M. Whitfield,MW,11:10-12:35,College 2 Main,2026-2027,Child Development,Fall;Spring,every_term
+015,CHD 232,Science and Technology in Early Childhood Education,H. Halvorsen,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+025,CHD 232,Science and Technology in Early Childhood Education,J. Whitfield,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+016,CHD 250,INTRODUCTION TO CHILDREN WITH SPECIAL NEEDS,H. Lindqvist,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+025,CHD 250,INTRODUCTION TO CHILDREN WITH SPECIAL NEEDS,J. Delgado,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,CHD 251,Curriculum and Strategies for Children with Special Needs,V. Okonkwo,W,18:00-20:50,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+017,CHE 101,Introduction to General Chemistry,T. Rahman,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+022,CHE 101,Introduction to General Chemistry,K. Ustinov,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+032,CHE 101,Introduction to General Chemistry,R. Mbeki,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+014,CHE 109,Chemistry for Health Sciences and Nursing Disciplines,M. Delgado,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+025,CHE 109,Chemistry for Health Sciences and Nursing Disciplines,S. Gutierrez,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+011,CHE 210,General Chemistry I,R. Quintero,T,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+020,CHE 210,General Chemistry I,P. Alvarez,MW,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_only
+013,CHE 211,General Chemistry II,V. Ibarra,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+021,CHE 211,General Chemistry II,A. Mbeki,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+037,CHE 211,General Chemistry II,J. Mbeki,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+W01,CIS 101,Introduction to Computers and Information Systems,P. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,Computer Information Systems,Fall;Spring,every_term
+026,CIS 101,Introduction to Computers and Information Systems,C. Fontaine,MW,09:35-11:00,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+011,CIS 102,Personal Computer Applications,R. Fontaine,T,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+027,CIS 102,Personal Computer Applications,N. Rahman,MW,08:00-09:25,Prison,2026-2027,General education / elective,Spring,spring_only
+010,CIS 114,Information and Communication Technologies Essentials - CompTIA A+,K. Quintero,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Spring,spring_only
+016,CIS 115,Network Fundamentals - CompTIA Network+,B. Petrova,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+021,CIS 115,Network Fundamentals - CompTIA Network+,N. Tanaka,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,CIS 116,Microsoft Client OS Administration - MCSA: Windows,E. Rahman,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+012,CIS 123,Web Page Design Using HTML,B. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,CIS 123,Web Page Design Using HTML,N. Delgado,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+038,CIS 123,Web Page Design Using HTML,P. Mbeki,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,CIS 124,WEB PAGE DESIGN TOOLS,J. Delgado,W,18:00-20:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+026,CIS 124,WEB PAGE DESIGN TOOLS,M. Castillo,Th,18:00-20:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+018,CIS 130,Introduction to 3D Computer Animation,P. Ibarra,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,CIS 130,Introduction to 3D Computer Animation,S. Alvarez,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+035,CIS 130,Introduction to 3D Computer Animation,J. Villanueva,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,CIS 131,Animation Principles and Production I,H. Eriksen,MWF,10:00-10:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+021,CIS 131,Animation Principles and Production I,C. Petrova,MWF,13:00-13:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+W03,CIS 131,Animation Principles and Production I,P. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,Computer Information Systems,Fall;Spring,every_term
+014,CIS 132,Animation Principles and Production II,M. Mbeki,MW,08:00-09:25,College 2 Satellite,2026-2027,Computer Information Systems,Fall;Spring,every_term
+025,CIS 132,Animation Principles and Production II,R. Okonkwo,MW,09:35-11:00,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+031,CIS 132,Animation Principles and Production II,C. Delgado,MW,09:35-11:00,College 2 Main,2026-2027,Computer Information Systems,Fall;Spring,every_term
+017,CIS 133,Advanced 3D Computer Animation,R. Whitfield,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,CIS 133,Advanced 3D Computer Animation,B. Eriksen,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,CIS 201,"Introduction to 3-D Printing, Setup, &amp; Rapid Prototype Design",B. Fontaine,T,18:00-20:50,College 2 Main,2026-2027,Computer Information Systems,Fall;Spring,every_term
+021,CIS 201,"Introduction to 3-D Printing, Setup, &amp; Rapid Prototype Design",J. Delgado,MWF,10:00-10:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+W01,CIS 202,3-D Printing: Basic Model Making,B. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+025,CIS 202,3-D Printing: Basic Model Making,R. Tanaka,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,CIS 203,"3D Printing, Basic Model Finishing",B. Nakamura,Async,n/a (async),DE (distance ed),2026-2027,Computer Information Systems,Fall;Spring,every_term
+W02,CIS 203,"3D Printing, Basic Model Finishing",R. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,Computer Information Systems,Fall;Spring,every_term
+033,CIS 203,"3D Printing, Basic Model Finishing",V. Boateng,MWF,10:00-10:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+012,CIS 204,3-D RAPID MODEL MAKING & PROTOTYPE DEVELOPMENT,E. Ibarra,TTh,08:00-09:25,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+W02,CIS 204,3-D RAPID MODEL MAKING & PROTOTYPE DEVELOPMENT,H. Nakamura,Async,n/a (async),DE (distance ed),2026-2027,Computer Information Systems,Fall;Spring,every_term
+036,CIS 204,3-D RAPID MODEL MAKING & PROTOTYPE DEVELOPMENT,H. Ibarra,M,18:00-20:50,Prison,2026-2027,Computer Information Systems,Fall;Spring,every_term
+W01,CIS 248,Syst Analysis and Design,H. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+018,CIS 260,DESKTOP PUBLISHING,B. Fontaine,TTh,08:00-09:25,College 2 Main,2026-2027,Computer Information Systems,Spring,spring_only
+028,CIS 260,DESKTOP PUBLISHING,J. Quintero,MWF,10:00-10:50,College 2 Main,2026-2027,Computer Information Systems,Spring,spring_only
+W01,CIS 265,Adobe Photoshop,T. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+027,CIS 265,Adobe Photoshop,H. Yamada,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+012,COMM C1000,Introduction Public Speaking,D. Kowalski,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+022,COMM C1000,Introduction Public Speaking,C. Whitfield,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+032,COMM C1000,Introduction Public Speaking,C. Fontaine,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,CRJ 085,POLICE EXPLORER ACADEMY I,R. Delgado,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+026,CRJ 085,POLICE EXPLORER ACADEMY I,J. Whitfield,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+012,CRJ 103,CRIMINAL LAW,T. Tanaka,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+023,CRJ 103,CRIMINAL LAW,T. Lindqvist,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+011,CRJ 104,Criminal Investigation,J. Rahman,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+025,CRJ 104,Criminal Investigation,T. Mbeki,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,CRJ 115,Introduction to Law Enforcement/Corrections,P. Whitfield,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+W01,CRJ 120,Community Relations,A. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+018,CRJ 125,Report Writing,S. Villanueva,TTh,08:00-09:25,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+025,CRJ 125,Report Writing,C. Tanaka,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,CRJ 125,Report Writing,K. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+015,CRJ 130,Drug Abuse,E. Ustinov,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,CRJ 155,Crime Scene Investigation,H. Gutierrez,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,CRJ 162,PC 832 Arrest,H. Yamada,M,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+W01,CRJ 164,"Laws of Arrest, Search and Seizures",H. Mbeki,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+015,CRJ 165,Arrest and Firearms,S. Castillo,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,CRJ 165,Arrest and Firearms,R. Delgado,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+017,CRJ 206,LEGAL ASPECTS OF EVIDENCE,L. Gutierrez,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+023,CRJ 206,LEGAL ASPECTS OF EVIDENCE,H. Lindqvist,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+015,CRJ 220,Interviewing and Counseling,V. Quintero,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,ECO 105,Principles of Macroeconomics,K. Whitfield,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+027,ECO 105,Principles of Macroeconomics,T. Whitfield,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+031,ECO 105,Principles of Macroeconomics,R. Boateng,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+W01,ECO 106,Principles of Microeconomics,T. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+025,ECO 106,Principles of Microeconomics,D. Petrova,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W03,ECO 106,Principles of Microeconomics,B. Petrova,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+011,EMS 161,Emergency Medical Technician Refresher,E. Nakamura,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,EMS 161,Emergency Medical Technician Refresher,V. Alvarez,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,EMS 161,Emergency Medical Technician Refresher,J. Ustinov,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,ENG 081,BASIC WRITING I,S. Gutierrez,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,ENG 081,BASIC WRITING I,S. Delgado,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+036,ENG 081,BASIC WRITING I,L. Quintero,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,ENG 082,Basic Writng II,T. Boateng,S,09:00-13:50,Prison,2026-2027,General education / elective,Spring,spring_only
+W02,ENG 082,Basic Writng II,E. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+010,ENG 095,Writing Improvment I,A. Okonkwo,W,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+013,ENG 096,WRITING IMPROVEMENT II,R. Villanueva,T,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+026,ENG 096,WRITING IMPROVEMENT II,H. Petrova,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+W01,ENG 099,Basic Composition,T. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+026,ENG 099,Basic Composition,H. Ibarra,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+016,ENG 100,Reading and Composition with Supplemental Support,K. Ibarra,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,ENG 100,Reading and Composition with Supplemental Support,D. Petrova,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,ENG 100,Reading and Composition with Supplemental Support,T. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,ENG 101,READING AND COMPOSITION,E. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+023,ENG 101,READING AND COMPOSITION,E. Quintero,MW,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_only
+018,ENG 102,Composition and Introduction to Literature,R. Castillo,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,ENG 102,Composition and Introduction to Literature,V. Boateng,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+032,ENG 102,Composition and Introduction to Literature,V. Eriksen,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,ENG 103,Critical Thinking and English Composition,K. Halvorsen,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Spring,spring_only
+026,ENG 103,Critical Thinking and English Composition,C. Fontaine,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+015,ENG 120,Introduction to Creative Writing,R. Mbeki,W,18:00-20:50,College 2 Main,2026-2027,Humanities,Fall;Spring,every_term
+022,ENG 120,Introduction to Creative Writing,A. Fontaine,TTh,12:45-14:10,Prison,2026-2027,Humanities,Fall;Spring,every_term
+W01,ENG 122,Survey of World Literature I,H. Boateng,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+022,ENG 122,Survey of World Literature I,B. Mbeki,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+031,ENG 122,Survey of World Literature I,N. Fontaine,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,ENG 125,INTRODUCTION TO FILM,R. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+017,ENG 140,Survey of American Literature II,E. Alvarez,TTh,12:45-14:10,Prison,2026-2027,Humanities,Fall;Spring,every_term
+013,ENG 150,Reading and Composition--Supplemental Lecture,N. Ibarra,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+024,ENG 150,Reading and Composition--Supplemental Lecture,N. Castillo,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+038,ENG 150,Reading and Composition--Supplemental Lecture,T. Delgado,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,ENG 222,Survey of World Literature II,T. Okonkwo,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+022,ENG 222,Survey of World Literature II,R. Alvarez,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+038,ENG 222,Survey of World Literature II,C. Eriksen,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,ENGL C1000,Academic Reading and Writing,S. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+013,ENGL C1001,Critical Thinking and Writing,E. Villanueva,MWF,10:00-10:50,Prison,2026-2027,Humanities,Fall;Spring,every_term
+022,ENGL C1001,Critical Thinking and Writing,E. Castillo,MWF,10:00-10:50,College 2 Main,2026-2027,Humanities,Fall;Spring,every_term
+014,ESL 040,Academic Reading and Writing for ESL,K. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+020,ESL 040,Academic Reading and Writing for ESL,R. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,ESL 040,Academic Reading and Writing for ESL,R. Yamada,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,ESL 080,Beginning Language I,P. Rahman,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,ESL 081,Beginning Language II,P. Tanaka,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+021,ESL 081,Beginning Language II,N. Okonkwo,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+036,ESL 081,Beginning Language II,L. Nakamura,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+016,ESL 082,INTERMEDIATE LANGUAGE I,E. Rahman,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+W02,ESL 082,INTERMEDIATE LANGUAGE I,H. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+034,ESL 082,INTERMEDIATE LANGUAGE I,P. Villanueva,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+018,ESL 083,Intermediate Language II,P. Villanueva,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+021,ESL 083,Intermediate Language II,E. Eriksen,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+016,ESL 088,Supplemental Skills for English as a Second Language,H. Rahman,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,ESL 088,Supplemental Skills for English as a Second Language,M. Mbeki,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,ESL 088,Supplemental Skills for English as a Second Language,P. Tanaka,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,ESL 096,ADVANCED LANGUAGE I,S. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+014,ESL 097,ADVANCED LANGUAGE II,P. Castillo,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,ETH 101,Introduction to Ethnic Studies,L. Nakamura,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W02,ETH 101,Introduction to Ethnic Studies,C. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+031,ETH 101,Introduction to Ethnic Studies,T. Petrova,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+014,ETH 210,Introduction to Mexican American Studies,K. Yamada,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+028,ETH 210,Introduction to Mexican American Studies,T. Fontaine,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FRE 101,ELEMENTARY FRENCH I,S. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+023,FRE 101,ELEMENTARY FRENCH I,B. Halvorsen,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+036,FRE 101,ELEMENTARY FRENCH I,T. Fontaine,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+014,FST 082,Structural Collapse Specialist 1,A. Boateng,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+024,FST 082,Structural Collapse Specialist 1,L. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,FST 083,Structural Collapse Specialist 2,A. Tanaka,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+015,FST 100,American Red Cross - Emergency Medical Response,E. Lindqvist,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,FST 102,Introduction to Fire Science,V. Ustinov,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 107,Driver/Operator: Aerial/Truck Operations,P. Quintero,T,18:00-20:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+026,FST 107,Driver/Operator: Aerial/Truck Operations,H. Castillo,MWF,10:00-10:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+037,FST 107,Driver/Operator: Aerial/Truck Operations,P. Fontaine,Th,18:00-20:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+010,FST 111,River and Flood Rescue Technician,R. Petrova,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+020,FST 111,River and Flood Rescue Technician,S. Ustinov,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,FST 115,Fire Apparatus Driver/Operator 1A: Emergency Vehicle Operations,J. Mbeki,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+023,FST 115,Fire Apparatus Driver/Operator 1A: Emergency Vehicle Operations,K. Tanaka,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,FST 116,Fire Apparatus Driver/ Operator 1B Pump Operations,V. Nakamura,W,18:00-20:50,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+022,FST 116,Fire Apparatus Driver/ Operator 1B Pump Operations,T. Whitfield,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 141,Open Water Rescue Boat Operator,M. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+023,FST 141,Open Water Rescue Boat Operator,D. Petrova,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+032,FST 141,Open Water Rescue Boat Operator,M. Rahman,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+012,FST 152,Haz Mat Technician 1A: Basic Chemistry,J. Eriksen,TTh,08:00-09:25,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+028,FST 152,Haz Mat Technician 1A: Basic Chemistry,H. Halvorsen,TTh,08:00-09:25,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+034,FST 152,Haz Mat Technician 1A: Basic Chemistry,H. Petrova,W,18:00-20:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+014,FST 153,Haz Mat Technician 1B: Applied Chemistry,T. Nakamura,T,18:00-20:50,College 2 Main,2026-2027,Fire Service Skills,Fall;Spring,every_term
+027,FST 153,Haz Mat Technician 1B: Applied Chemistry,L. Quintero,TTh,12:45-14:10,College 2 Main,2026-2027,Fire Service Skills,Fall;Spring,every_term
+W03,FST 153,Haz Mat Technician 1B: Applied Chemistry,J. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,Fire Service Skills,Fall;Spring,every_term
+011,FST 154,HAZ MAT TECHNICIAN 1C: INCIDENT CONSIDERATIONS,M. Yamada,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,FST 155,HAZ MAT TECHNICIAN 1D: TACTICAL FIELD OPERATIONS,B. Eriksen,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 157,Haz Mat Specialist 1F: Specialized Mitigation Techniques,H. Mbeki,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,FST 158,Haz Mat Specialist 1G: Tactical Field Operations,K. Castillo,MW,09:35-11:00,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+022,FST 158,Haz Mat Specialist 1G: Tactical Field Operations,T. Mbeki,T,18:00-20:50,College 2 Main,2026-2027,Fire Service Skills,Fall;Spring,every_term
+017,FST 160,WASTE CLEAN-UP OPERATIONS,L. Whitfield,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,FST 160,WASTE CLEAN-UP OPERATIONS,S. Okonkwo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+033,FST 160,WASTE CLEAN-UP OPERATIONS,B. Villanueva,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,FST 161,Hazmat Incident Command System,H. Villanueva,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+028,FST 161,Hazmat Incident Command System,B. Castillo,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+037,FST 161,Hazmat Incident Command System,L. Yamada,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 162,I-300: Intermediate Incident Command System (ICS),N. Eriksen,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,FST 162,I-300: Intermediate Incident Command System (ICS),L. Castillo,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+030,FST 162,I-300: Intermediate Incident Command System (ICS),K. Halvorsen,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 165,CONFINED SPACE RESCUE TECHNICIAN,T. Ibarra,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+016,FST 173,Rescue Systems 1: Basic Rescue Skills,L. Lindqvist,TTh,09:35-11:00,College 2 Main,2026-2027,Fire Service Skills,Fall;Spring,every_term
+027,FST 173,Rescue Systems 1: Basic Rescue Skills,S. Villanueva,S,09:00-13:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+038,FST 173,Rescue Systems 1: Basic Rescue Skills,P. Delgado,MWF,13:00-13:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+017,FST 174,Rescue Systems 2: Advanced Rescue Skills,A. Fontaine,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,FST 174,Rescue Systems 2: Advanced Rescue Skills,R. Villanueva,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,FST 178,TRAINING INSTRUCTOR 1A: COGNITIVE LESSON DELIVERY,B. Fontaine,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,FST 179,TRAINING INSTRUCTOR 1B: PSYCHOMOTOR LESSON DELIVERY,V. Petrova,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W02,FST 179,TRAINING INSTRUCTOR 1B: PSYCHOMOTOR LESSON DELIVERY,D. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+W03,FST 179,TRAINING INSTRUCTOR 1B: PSYCHOMOTOR LESSON DELIVERY,R. Villanueva,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+018,FST 182,FIRE MANAGEMENT I: MANAGEMENT/SUPERVISION FOR COMPANY OFFICERS,D. Lindqvist,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,FST 183,"Terrorism, Weapons of Mass Destruction",N. Alvarez,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,FST 186,FIRE MANAGEMENT 2C: PERSONNEL AND LABOR RELATIONS,R. Villanueva,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+017,FST 194,FIRE MANAGEMENT 2A: ORGANIZATIONAL DEVELOPMENT AND HUMAN RELATIONS,K. Ustinov,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+025,FST 194,FIRE MANAGEMENT 2A: ORGANIZATIONAL DEVELOPMENT AND HUMAN RELATIONS,S. Okonkwo,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+W03,FST 194,FIRE MANAGEMENT 2A: ORGANIZATIONAL DEVELOPMENT AND HUMAN RELATIONS,N. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_alternate_years
+016,FST 195,FIRE MANAGEMENT 2B: FIRE SERVICES FINANCIAL MANAGEMENT,J. Mbeki,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+013,FST 197,FIRE COMMAND 2A: COMMAND TACTICS AT MAJOR FIRES,D. Quintero,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+012,FST 198,FIRE COMMAND 2B: MANAGEMENT OF MAJOR HAZARDOUS MATERIALS INCIDENTS,D. Castillo,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+018,FST 199,COMMAND 2C: HIGH RISE FIREFIGHTING TACTICS,N. Lindqvist,MW,11:10-12:35,College 2 Satellite,2026-2027,General education / elective,Fall,fall_only
+025,FST 199,COMMAND 2C: HIGH RISE FIREFIGHTING TACTICS,J. Castillo,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+037,FST 199,COMMAND 2C: HIGH RISE FIREFIGHTING TACTICS,T. Ibarra,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,FST 201,FIRE COMMAND 1B:: INCIDENT MANAGEMENT FOR COMPANY OFFICERS,N. Quintero,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+015,FST 202,FIRE COMMAND 2E: WILDLAND FIREFIGHTING TACTICS,B. Yamada,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+027,FST 202,FIRE COMMAND 2E: WILDLAND FIREFIGHTING TACTICS,P. Halvorsen,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 204,FIRE COMMAND 1C: WILDLAND/URBAN INTERFACE COMMAND OPERATIONS FOR THE COMPANY OFFICERS,D. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+014,FST 208,FIRE COMMAND 2D: PLANNING FOR LARGE SCALE DISASTERS,N. Okonkwo,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+028,FST 208,FIRE COMMAND 2D: PLANNING FOR LARGE SCALE DISASTERS,P. Delgado,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,FST 212,FIRE MANAGEMENT 2D: STRATEGIC PLANNING,V. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+024,FST 212,FIRE MANAGEMENT 2D: STRATEGIC PLANNING,S. Ustinov,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+036,FST 212,FIRE MANAGEMENT 2D: STRATEGIC PLANNING,L. Mbeki,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+W01,FST 213,FIRE MANAGEMENT 2E: ETHICS AND THE CHALLENGE OF LEADERSHIP,S. Okonkwo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+027,FST 213,FIRE MANAGEMENT 2E: ETHICS AND THE CHALLENGE OF LEADERSHIP,T. Villanueva,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+014,FST 216,FIRE INSTRUCTOR 2A: TECHNIQUES OF EVALUATION,T. Boateng,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+021,FST 216,FIRE INSTRUCTOR 2A: TECHNIQUES OF EVALUATION,A. Ibarra,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+036,FST 216,FIRE INSTRUCTOR 2A: TECHNIQUES OF EVALUATION,T. Quintero,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+017,FST 217,FIRE INSTRUCTOR 2B: GROUP DYNAMICS AND PROBLEM SOLVING,V. Alvarez,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,FST 217,FIRE INSTRUCTOR 2B: GROUP DYNAMICS AND PROBLEM SOLVING,D. Gutierrez,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 218,FIRE INSTRUCTOR 2C: EMPLOYING AUDIOVISUAL AIDS,R. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+021,FST 218,FIRE INSTRUCTOR 2C: EMPLOYING AUDIOVISUAL AIDS,C. Tanaka,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+034,FST 218,FIRE INSTRUCTOR 2C: EMPLOYING AUDIOVISUAL AIDS,C. Ibarra,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 221,S404 Safety Officer,A. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+024,FST 221,S404 Safety Officer,L. Eriksen,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 222,Hazardous Materials Technician for Industry,T. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+023,FST 222,Hazardous Materials Technician for Industry,T. Quintero,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,FST 224,Instructor 1: Instructional Methodology,V. Alvarez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+026,FST 224,Instructor 1: Instructional Methodology,J. Rahman,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+035,FST 224,Instructor 1: Instructional Methodology,R. Fontaine,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,FST 226,Instructor II: Instructional Development,K. Alvarez,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+027,FST 226,Instructor II: Instructional Development,R. Ibarra,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+014,FST 240,Fire Prevention 1: Fire and Life Safety Inspections For Company Officer,V. Castillo,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,FST 240,Fire Prevention 1: Fire and Life Safety Inspections For Company Officer,A. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,FST 241,Fire Investigation 1A: Fire Origin and Cause Determination,P. Lindqvist,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,FST 241,Fire Investigation 1A: Fire Origin and Cause Determination,D. Petrova,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+015,FST 242,Fire Investigation 1B: Techniques of Fire Investigation,D. Ustinov,Th,18:00-20:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+025,FST 242,Fire Investigation 1B: Techniques of Fire Investigation,J. Whitfield,MW,09:35-11:00,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+016,FST 243,Fire Investigation 2A: Criminal and Legal Procedures,R. Quintero,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,FST 244,Fire Investigation 2B: Field Case Studies,M. Yamada,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 245,Company Officer 2A: Human Resource Management,P. Rahman,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 246,Company Officer 2B: General Administrative Functions,J. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+028,FST 246,Company Officer 2B: General Administrative Functions,K. Delgado,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,FST 246,Company Officer 2B: General Administrative Functions,B. Quintero,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,FST 247,Company Officer 2C: Fire Inspections and Investigations,M. Villanueva,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,FST 248,Company Officer 2D: All- Risk Command Operations,P. Alvarez,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W02,FST 248,Company Officer 2D: All- Risk Command Operations,B. Quintero,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+033,FST 248,Company Officer 2D: All- Risk Command Operations,V. Halvorsen,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 249,Company Officer 2E: Wildland Incident Operations,H. Villanueva,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+022,FST 249,Company Officer 2E: Wildland Incident Operations,J. Tanaka,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+012,FST 251,Hazardous Material Technician Specialist Refresher II,D. Mbeki,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,FST 252,Chief Fire Officer 3A: Human Resource Management,E. Rahman,Th,18:00-20:50,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+027,FST 252,Chief Fire Officer 3A: Human Resource Management,H. Kowalski,Th,18:00-20:50,College 2 Main,2026-2027,Fire Service Skills,Fall;Spring,every_term
+012,FST 253,Chief Officer 3B: Budget and Fiscal Responsibilities,H. Yamada,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+024,FST 253,Chief Officer 3B: Budget and Fiscal Responsibilities,B. Villanueva,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 254,CHIEF FIRE OFFICER 3C: GENERAL ADMINISTRATION FUNCTIONS,V. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+013,FST 256,Chief Fire Officer 3D: Emergency Service Delivery Responsibilities,T. Lindqvist,MW,11:10-12:35,Prison,2026-2027,Fire Service Skills,Fall;Spring,every_term
+013,FST 257,Fire Inspector 1A: Duties and Administration,V. Delgado,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,FST 258,Fire Inspector 1B: Fire and Life Safety,E. Alvarez,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+028,FST 258,Fire Inspector 1B: Fire and Life Safety,T. Okonkwo,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,FST 259,Fire Inspector 1C: Field Inspection,N. Castillo,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,FST 259,Fire Inspector 1C: Field Inspection,T. Ustinov,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,FST 262,Fire Inspector 2B: Fire and Life Safety Requirements,B. Eriksen,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,FST 262,Fire Inspector 2B: Fire and Life Safety Requirements,B. Alvarez,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,FST 264,"Fire Inspector 2D: Hazardous Materials, Operations, and Processess",L. Boateng,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+026,FST 264,"Fire Inspector 2D: Hazardous Materials, Operations, and Processess",V. Rahman,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+034,FST 264,"Fire Inspector 2D: Hazardous Materials, Operations, and Processess",E. Halvorsen,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 269,HAZARDOUS MATERIALS EMERGENCY RESPONSE TECHNICIAN-PRIVATE,C. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+026,FST 269,HAZARDOUS MATERIALS EMERGENCY RESPONSE TECHNICIAN-PRIVATE,T. Eriksen,TTh,09:35-11:00,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 270,Hazardous Waste General Site Worker,R. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+010,FST 271,Hazardous Waste Occasional Site Worker,B. Castillo,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,FST 272,S-290: INTERMEDIATE WILDLAND FIRE BEHAVIOR,H. Yamada,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+024,FST 272,S-290: INTERMEDIATE WILDLAND FIRE BEHAVIOR,L. Halvorsen,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+012,FST 273,Fire Instructor III: Instructional Program Management,N. Boateng,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,FST 274,Fire Control 5A; Aircraft Rescue and Firefighting Initial Training,L. Whitfield,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+014,FST 277,Rope Rescue Technician/High Angle Rescue,P. Ustinov,S,09:00-13:50,Prison,2026-2027,General education / elective,Spring,spring_only
+W02,FST 277,Rope Rescue Technician/High Angle Rescue,C. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+015,GEL 101,Physical Geology,K. Delgado,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+026,GEL 101,Physical Geology,D. Lindqvist,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+030,GEL 101,Physical Geology,P. Nakamura,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+017,GEL 102,Physical Geology Laboratory,L. Nakamura,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,GEL 103,Environmental Geology,D. Nakamura,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+025,GEL 103,Environmental Geology,V. Nakamura,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+014,GEL 104,Environmental Geology Lab,T. Boateng,MW,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_alternate_years
+010,GEL 105,Natural Hazards and Disasters,P. Halvorsen,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,GEL 105,Natural Hazards and Disasters,N. Ustinov,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,GEL 105,Natural Hazards and Disasters,C. Rahman,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,GEL 106,Natural Hazards and Disasters Laboratory,L. Villanueva,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+010,GEL 110,California Geology,B. Okonkwo,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+011,GEO 101,Physical Geography,N. Mbeki,T,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+011,GEO 103,World Geography,V. Castillo,TTh,12:45-14:10,College 2 Satellite,2026-2027,General education / elective,Fall,fall_only
+027,GEO 103,World Geography,A. Gutierrez,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+010,GES 101,Introduction To College Life,H. Mbeki,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,GES 115,The Master Student,J. Villanueva,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,GES 115,The Master Student,M. Fontaine,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+032,GES 115,The Master Student,T. Tanaka,M,18:00-20:50,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+013,GGR 101,Physical Geography,P. Halvorsen,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_alternate_years
+018,GGR 102,Physical Geography Laboratory,K. Gutierrez,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,GGR 102,Physical Geography Laboratory,E. Rahman,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,GGR 103,World Geography,K. Nakamura,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+015,GGR 120,Introduction to Human Geography,H. Tanaka,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+023,GGR 120,Introduction to Human Geography,K. Ustinov,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,GGR 120,Introduction to Human Geography,T. Kowalski,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+017,HEA 140,Health Education,J. Petrova,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+028,HEA 140,Health Education,P. Petrova,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,HIS 110,World Civilization I,D. Castillo,MWF,13:00-13:50,Prison,2026-2027,Social Sciences,Fall;Spring,every_term
+012,HIS 115,Current Events,N. Ustinov,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,HIS 120,World Civilization II,V. Kowalski,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+022,HIS 120,World Civilization II,P. Halvorsen,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+031,HIS 120,World Civilization II,L. Whitfield,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,HIS 125,California History,P. Mbeki,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+027,HIS 125,California History,A. Whitfield,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W03,HIS 125,California History,J. Delgado,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,HIS 130,American History I,E. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+024,HIS 130,American History I,M. Boateng,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+016,HIS 140,American History II,A. Alvarez,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+024,HIS 140,American History II,N. Fontaine,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+014,HIST C1001,United States History to 1877,L. Boateng,W,18:00-20:50,Prison,2026-2027,Social Sciences,Fall;Spring,every_term
+010,KIN 100,Introduction to Kinesiology,N. Kowalski,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,KIN 101,First Aid and CPR,R. Halvorsen,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+020,KIN 101,First Aid and CPR,A. Alvarez,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+032,KIN 101,First Aid and CPR,N. Nakamura,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_alternate_years
+014,MAN 105,Principles of Management and Organizations,A. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,MAN 106,PERSONNEL MANAGEMENT,J. Gutierrez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+020,MAN 106,PERSONNEL MANAGEMENT,P. Yamada,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,MAN 107,Small Business Management,C. Ibarra,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+022,MAN 107,Small Business Management,T. Eriksen,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+036,MAN 107,Small Business Management,B. Boateng,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+012,MAN 145,Organizational Behavior,L. Halvorsen,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+022,MAN 145,Organizational Behavior,C. Rahman,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+015,MAN 205,Investments,H. Eriksen,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_alternate_years
+W02,MAN 205,Investments,P. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_alternate_years
+013,MAT 095,Pre-College Algebra,S. Nakamura,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+023,MAT 095,Pre-College Algebra,D. Lindqvist,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,MAT 106,Statistics,L. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+021,MAT 106,Statistics,P. Quintero,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W03,MAT 106,Statistics,P. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+012,MAT 108,Liberal Arts Mathematics,P. Yamada,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,MAT 110,College Algebra,L. Whitfield,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W02,MAT 110,College Algebra,L. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W03,MAT 110,College Algebra,D. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+014,MAT 130,Finite Math,E. Delgado,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,MAT 210,Precalculus,H. Quintero,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+022,MAT 210,Precalculus,L. Gutierrez,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,MAT 220,CALCULUS I,A. Castillo,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,MUS 121,Music History and Appreciation,E. Mbeki,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,MUS 127,Instrumental Ensemble I,K. Whitfield,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+022,MUS 127,Instrumental Ensemble I,L. Quintero,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+015,MUS 128,Instrumental Ensemble II,H. Nakamura,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,MUS 131,Classroom Piano I,A. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+026,MUS 131,Classroom Piano I,R. Alvarez,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+030,MUS 131,Classroom Piano I,R. Nakamura,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,MUS 132,Classroom Piano II,P. Quintero,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+028,MUS 132,Classroom Piano II,J. Okonkwo,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,MUS 135,Music Fundamentals,L. Delgado,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,MUS 135,Music Fundamentals,B. Mbeki,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,MUS 137,History of Rock and Roll,N. Villanueva,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+023,MUS 137,History of Rock and Roll,T. Rahman,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+017,MUS 141,Jazz Ensemble I,K. Whitfield,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+023,MUS 141,Jazz Ensemble I,C. Villanueva,M,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+038,MUS 141,Jazz Ensemble I,S. Lindqvist,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+017,MUS 142,Jazz Ensemble II,B. Alvarez,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+022,MUS 142,Jazz Ensemble II,C. Fontaine,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+036,MUS 142,Jazz Ensemble II,V. Kowalski,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+011,MUS 150,Music Theory,J. Eriksen,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+027,MUS 150,Music Theory,N. Ustinov,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+034,MUS 150,Music Theory,S. Fontaine,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,MUS 161,Concert Choir I,J. Petrova,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,MUS 161,Concert Choir I,D. Alvarez,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,MUS 162,Concert Choir II,R. Eriksen,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+024,MUS 162,Concert Choir II,N. Rahman,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,MUS 233,Classroom Piano III,K. Lindqvist,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,MUS 233,Classroom Piano III,H. Boateng,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+011,MUS 234,Classroom Piano IV,N. Rahman,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,MUS 234,Classroom Piano IV,B. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+032,MUS 234,Classroom Piano IV,D. Lindqvist,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,MUS 237,Instrumental Ensemble III,V. Mbeki,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+024,MUS 237,Instrumental Ensemble III,M. Villanueva,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+015,MUS 238,Instrumental Ensemble IV,T. Eriksen,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,MUS 243,Jazz Ensemble III,T. Okonkwo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+026,MUS 243,Jazz Ensemble III,E. Delgado,MW,08:00-09:25,Prison,2026-2027,General education / elective,Spring,spring_only
+036,MUS 243,Jazz Ensemble III,C. Kowalski,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+014,MUS 261,Concert Choir III,T. Kowalski,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,MUS 261,Concert Choir III,H. Delgado,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,MUS 262,Concert Choir IV,M. Eriksen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+027,MUS 262,Concert Choir IV,B. Tanaka,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+013,MUS 280,Selected Topics in Music,N. Ustinov,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Spring,spring_only
+020,MUS 280,Selected Topics in Music,M. Nakamura,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+018,NSC 128,Medical Terminology,A. Halvorsen,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+028,NSC 128,Medical Terminology,A. Villanueva,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+032,NSC 128,Medical Terminology,C. Boateng,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,NSC 130,Phlebotomy Technician,E. Ibarra,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,NSC 132,Phlebotomy Technician Practical Experience,A. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+016,NUR 100,Certified Nursing Assistant - Lecture,D. Nakamura,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+020,NUR 100,Certified Nursing Assistant - Lecture,J. Castillo,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+034,NUR 100,Certified Nursing Assistant - Lecture,P. Kowalski,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+018,NUR 101,Certified Home Health Aide,H. Yamada,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,NUR 102,Introduction to Anatomy and Physiology for Allied Health,H. Boateng,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,NUR 102,Introduction to Anatomy and Physiology for Allied Health,J. Whitfield,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,NUR 103,Introduction to Pharmacology,A. Kowalski,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,NUR 103,Introduction to Pharmacology,C. Gutierrez,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+033,NUR 103,Introduction to Pharmacology,H. Nakamura,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,NUR 106,INTRODUCTION TO PHARMACOLOGY II,T. Tanaka,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+023,NUR 106,INTRODUCTION TO PHARMACOLOGY II,T. Kowalski,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+012,NUR 115,Pharmacology I for Fast Track VN,P. Yamada,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+022,NUR 115,Pharmacology I for Fast Track VN,D. Delgado,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,NUR 117,Nutrition for Nursing,E. Okonkwo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+027,NUR 117,Nutrition for Nursing,V. Ustinov,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+038,NUR 117,Nutrition for Nursing,R. Kowalski,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+013,NUR 118,Certified Nursing Assistant,M. Mbeki,MW,11:10-12:35,College 2 Satellite,2026-2027,General education / elective,Fall;Spring,every_term
+014,NUR 119,Pharmacology II for Fast Track VN,E. Rahman,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+015,NUR 121,FUNDAMENTALS OF NURSING -CLINICAL,P. Lindqvist,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+025,NUR 121,FUNDAMENTALS OF NURSING -CLINICAL,A. Ibarra,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+036,NUR 121,FUNDAMENTALS OF NURSING -CLINICAL,H. Halvorsen,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+011,NUR 124,MEDICAL-SURGICAL NURSING I – CLINICAL,N. Tanaka,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+023,NUR 124,MEDICAL-SURGICAL NURSING I – CLINICAL,T. Gutierrez,MW,08:00-09:25,Prison,2026-2027,General education / elective,Spring,spring_only
+038,NUR 124,MEDICAL-SURGICAL NURSING I – CLINICAL,L. Petrova,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_only
+011,NUR 145,Fast Track VN Clinical Focus,D. Fontaine,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,NUR 145,Fast Track VN Clinical Focus,R. Tanaka,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,NUR 151,Introduction to Identification of Cardiac Rhythm Strips,H. Kowalski,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+015,NUR 250,IV Therapy Techniques for Nurses,A. Mbeki,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,NUR 250,IV Therapy Techniques for Nurses,T. Quintero,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+032,NUR 250,IV Therapy Techniques for Nurses,N. Halvorsen,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,NUR 251,Fundamentals in Nursing,A. Gutierrez,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+021,NUR 251,Fundamentals in Nursing,R. Mbeki,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+036,NUR 251,Fundamentals in Nursing,H. Yamada,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,NUR 252,Clinical practice for NUR 251,P. Ustinov,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+011,NUR 255,Medical-Surgical Nursing l,K. Mbeki,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,NUR 255,Medical-Surgical Nursing l,A. Petrova,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+034,NUR 255,Medical-Surgical Nursing l,D. Mbeki,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+013,NUR 256,Clinical Practice for NUR 255,P. Whitfield,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,NUR 256,Clinical Practice for NUR 255,A. Okonkwo,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,NUR 258,Psychiatric/Mental Health Nursing,E. Whitfield,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+015,NUR 259,Clinical Practice for NUR 258,V. Alvarez,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+020,NUR 259,Clinical Practice for NUR 258,V. Delgado,MW,11:10-12:35,College 2 Satellite,2026-2027,General education / elective,Fall,fall_only
+011,NUR 260,Family-Child Nursing,T. Tanaka,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+028,NUR 260,Family-Child Nursing,T. Halvorsen,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+038,NUR 260,Family-Child Nursing,H. Okonkwo,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+016,NUR 261,Clinical Practice for NUR 260,R. Boateng,W,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W02,NUR 261,Clinical Practice for NUR 260,H. Gutierrez,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+018,NUR 262,Maternal-Newborn Nursing,M. Villanueva,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+024,NUR 262,Maternal-Newborn Nursing,R. Boateng,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+032,NUR 262,Maternal-Newborn Nursing,A. Lindqvist,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,NUR 263,Clinical Practice for NUR 262,K. Castillo,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+025,NUR 263,Clinical Practice for NUR 262,A. Tanaka,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+037,NUR 263,Clinical Practice for NUR 262,H. Okonkwo,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+017,NUR 264,Advanced Medical-Surgical Nursing,L. Quintero,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+024,NUR 264,Advanced Medical-Surgical Nursing,E. Mbeki,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,NUR 265,Clinical Practice for NUR 264,E. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+025,NUR 265,Clinical Practice for NUR 264,K. Eriksen,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,NUR 266,Leadership,L. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+025,NUR 266,Leadership,R. Mbeki,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,NUR 267,Clinical Practice for NUR 266,C. Whitfield,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+017,NUR 268,LVN-ADN Transition,A. Villanueva,M,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+028,NUR 268,LVN-ADN Transition,R. Tanaka,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+033,NUR 268,LVN-ADN Transition,R. Lindqvist,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+012,NUR 269,Gerontological Nursing,D. Okonkwo,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+023,NUR 269,Gerontological Nursing,T. Ibarra,TTh,09:35-11:00,College 2 Satellite,2026-2027,General education / elective,Fall,fall_only
+036,NUR 269,Gerontological Nursing,B. Rahman,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+014,PHE 100,Fitness Center,R. Quintero,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+022,PHE 100,Fitness Center,P. Boateng,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,PHE 135,Fitness and Exercise,M. Alvarez,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+012,PHE 151,Golf,C. Delgado,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,PHE 155,Basketball 1,C. Quintero,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+014,PHE 156,Basketball 2,M. Rahman,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+014,PHE 157,Basketball 3,K. Halvorsen,W,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+W01,PHE 176,Introduction to Golf,D. Castillo,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+011,PHE 177,Intermediate Golf,N. Rahman,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,PHE 178,Advanced Golf,A. Villanueva,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,PHE 178,Advanced Golf,C. Alvarez,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,PHE 179,Competitive Golf,N. Petrova,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+028,PHE 179,Competitive Golf,T. Okonkwo,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+036,PHE 179,Competitive Golf,R. Quintero,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+010,PHE 180,Sport Psychology,L. Yamada,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+013,PHE 184,Beginning Adaptive Activity,L. Fontaine,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+W02,PHE 184,Beginning Adaptive Activity,L. Whitfield,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+034,PHE 184,Beginning Adaptive Activity,T. Alvarez,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+010,PHI 100,Introduction to Philosophy,N. Ustinov,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+023,PHI 100,Introduction to Philosophy,J. Ibarra,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+034,PHI 100,Introduction to Philosophy,J. Tanaka,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+016,PHI 120,Introduction to Ethics,C. Rahman,T,18:00-20:50,Prison,2026-2027,Humanities,Fall;Spring,every_term
+022,PHI 120,Introduction to Ethics,K. Whitfield,M,18:00-20:50,Prison,2026-2027,Humanities,Fall;Spring,every_term
+033,PHI 120,Introduction to Ethics,A. Kowalski,TTh,12:45-14:10,College 2 Main,2026-2027,Humanities,Fall;Spring,every_term
+016,PHS 100,Personal Health and Wellness,B. Fontaine,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+027,PHS 100,Personal Health and Wellness,V. Gutierrez,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+038,PHS 100,Personal Health and Wellness,R. Lindqvist,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,PHS 101,Introduction to Public Health,S. Boateng,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+022,PHS 101,Introduction to Public Health,S. Yamada,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+030,PHS 101,Introduction to Public Health,K. Ibarra,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+010,PHS 102,Public Health Science and the Environment,D. Petrova,TTh,08:00-09:25,College 2 Satellite,2026-2027,General education / elective,Spring,spring_only
+W02,PHS 102,Public Health Science and the Environment,S. Halvorsen,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Spring,spring_only
+035,PHS 102,Public Health Science and the Environment,P. Quintero,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+018,PHS 103,Public Health and Social Justice,V. Alvarez,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+026,PHS 103,Public Health and Social Justice,J. Lindqvist,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+011,PHY 100,Physics Concepts,R. Quintero,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,PHY 101,INTRODUCTION TO PHYSICS,A. Eriksen,W,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+W01,POLS C1000,American Government and Politics,C. Rahman,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+027,POLS C1000,American Government and Politics,D. Rahman,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+014,POS 145,American Political Institutions,S. Nakamura,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+020,POS 145,American Political Institutions,L. Boateng,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+018,PSY 101,General Psychology,H. Quintero,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_alternate_years
+W01,PSY 110,Personal and Social Adjustment I,K. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W02,PSY 110,Personal and Social Adjustment I,P. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W03,PSY 110,Personal and Social Adjustment I,J. Mbeki,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+016,PSY 115,Human Sexuality,C. Gutierrez,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+027,PSY 115,Human Sexuality,L. Tanaka,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+036,PSY 115,Human Sexuality,E. Rahman,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+017,PSY 145,Human Relations,E. Gutierrez,TTh,09:35-11:00,College 2 Main,2026-2027,Social Sciences,Spring,spring_alternate_years
+W02,PSY 145,Human Relations,J. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,Social Sciences,Spring,spring_alternate_years
+032,PSY 145,Human Relations,T. Yamada,T,18:00-20:50,Prison,2026-2027,Social Sciences,Spring,spring_alternate_years
+015,PSY 150,Introduction to Research Methods,T. Mbeki,MWF,10:00-10:50,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+W02,PSY 150,Introduction to Research Methods,C. Tanaka,Async,n/a (async),DE (distance ed),2026-2027,Social Sciences,Fall;Spring,every_term
+018,PSY 155,Introduction to Statistical Analysis for the Social Sciences,N. Ibarra,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+028,PSY 155,Introduction to Statistical Analysis for the Social Sciences,B. Delgado,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,PSY 201,Lifespan Development,T. Nakamura,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,PSY 201,Lifespan Development,N. Quintero,M,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+033,PSY 201,Lifespan Development,E. Villanueva,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+011,PSY 202,Positive Psychology,S. Boateng,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,PSY 202,Positive Psychology,N. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,PSY 203,Health Psychology,S. Nakamura,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+012,PSY 205,Introduction to Biological Psychology,J. Rahman,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,PSY 205,Introduction to Biological Psychology,S. Mbeki,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+036,PSY 205,Introduction to Biological Psychology,R. Halvorsen,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W01,PSY 210,Abnormal Psychology,T. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+023,PSY 210,Abnormal Psychology,T. Kowalski,TTh,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+016,PSY 215,Social Psychology,P. Yamada,MWF,13:00-13:50,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+W01,PSY 220,Counseling and Interviewing,T. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+021,PSY 220,Counseling and Interviewing,D. Whitfield,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+W03,PSY 220,Counseling and Interviewing,R. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+015,PSY 280,Selected Topics in Psychology,A. Mbeki,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+025,PSY 280,Selected Topics in Psychology,B. Lindqvist,MW,11:10-12:35,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+014,PSY 290,Selected Studies in Psychology,L. Kowalski,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall,fall_only
+018,PSYC C1000,Introduction to Psychology,B. Rahman,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+024,PSYC C1000,Introduction to Psychology,C. Tanaka,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+018,RDG 084,BEGINNING READING WITH LABORATORY,A. Whitfield,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Spring,spring_alternate_years
+023,RDG 084,BEGINNING READING WITH LABORATORY,A. Ustinov,Th,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_alternate_years
+017,RDG 086,INTERMEDIATE READING WITH LABORATORY,B. Whitfield,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+023,RDG 086,INTERMEDIATE READING WITH LABORATORY,B. Ibarra,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+018,RDG 094,Beginning Reading,H. Halvorsen,MW,11:10-12:35,Prison,2026-2027,General education / elective,Spring,spring_only
+026,RDG 094,Beginning Reading,S. Petrova,T,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+032,RDG 094,Beginning Reading,L. Mbeki,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+010,RDG 096,Intermediate Reading,S. Ibarra,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+021,RDG 096,Intermediate Reading,J. Gutierrez,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+037,RDG 096,Intermediate Reading,M. Ustinov,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+014,SOC 101,Introduction to Sociology,A. Quintero,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+012,SOC 111,Marriage and the Family,H. Lindqvist,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W02,SOC 111,Marriage and the Family,C. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+035,SOC 111,Marriage and the Family,T. Delgado,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,SOC 115,Introduction to Chicano/a Studies,S. Villanueva,MW,11:10-12:35,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+026,SOC 115,Introduction to Chicano/a Studies,T. Tanaka,TTh,09:35-11:00,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+011,SOC 120,Research Methods in Sociology,E. Gutierrez,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+017,SOC 121,Social Problems,J. Tanaka,S,09:00-13:50,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+028,SOC 121,Social Problems,S. Yamada,W,18:00-20:50,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+034,SOC 121,Social Problems,E. Delgado,Th,18:00-20:50,Prison,2026-2027,Social Sciences,Fall;Spring,every_term
+012,SOC 140,Introduction to Gender,M. Petrova,MWF,10:00-10:50,Prison,2026-2027,General education / elective,Fall,fall_only
+025,SOC 140,Introduction to Gender,N. Okonkwo,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+018,SOC 160,Introduction to Crime,K. Delgado,MW,11:10-12:35,Prison,2026-2027,Social Sciences,Fall;Spring,every_term
+024,SOC 160,Introduction to Crime,E. Whitfield,Th,18:00-20:50,College 2 Main,2026-2027,Social Sciences,Fall;Spring,every_term
+014,SPA 101,Elementary Spanish I,K. Boateng,Th,18:00-20:50,Prison,2026-2027,General education / elective,Spring,spring_only
+025,SPA 101,Elementary Spanish I,D. Yamada,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Spring,spring_only
+012,SPA 102,Elementary Spanish II,E. Boateng,TTh,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,SPA 115,Spanish for Spanish Speakers,P. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+W01,SPE 101,Introduction to Speech,S. Yamada,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+028,SPE 101,Introduction to Speech,A. Whitfield,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+012,SPE 102,Public Speaking,A. Okonkwo,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+010,SPE 103,Argument and Debate,M. Rahman,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,SPE 105,Introduction to Intercultural Communication,E. Petrova,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+026,SPE 105,Introduction to Intercultural Communication,S. Petrova,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+032,SPE 105,Introduction to Intercultural Communication,L. Gutierrez,MW,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+W01,SPE 130,Interpersonal Communications,P. Ustinov,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+010,STAT C1000,Introduction to Statistics,R. Kowalski,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+028,STAT C1000,Introduction to Statistics,L. Mbeki,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+010,THA 110,Introduction to Theatre,M. Okonkwo,T,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+020,THA 110,Introduction to Theatre,P. Lindqvist,MW,09:35-11:00,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+W01,THA 114,Script Analysis,V. Lindqvist,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall,fall_only
+020,THA 114,Script Analysis,J. Lindqvist,T,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+032,THA 114,Script Analysis,D. Castillo,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+017,THA 151,Acting I,S. Quintero,S,09:00-13:50,College 2 Main,2026-2027,General education / elective,Fall,fall_only
+028,THA 151,Acting I,V. Ibarra,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall,fall_only
+013,THA 152,Acting II,T. Rahman,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+015,THA 171,Introduction to Stagecraft,L. Halvorsen,MWF,13:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,THA 171,Introduction to Stagecraft,T. Ibarra,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+012,THA 191,Rehearsal and Performance in Production,K. Eriksen,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+025,THA 191,Rehearsal and Performance in Production,R. Villanueva,MWF,13:00-13:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+033,THA 191,Rehearsal and Performance in Production,M. Halvorsen,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+015,THA 192,Technical Theatre in Production,B. Okonkwo,MWF,10:00-10:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+023,THA 192,Technical Theatre in Production,M. Petrova,TTh,12:45-14:10,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+034,THA 192,Technical Theatre in Production,N. Villanueva,Th,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,WEL 100,Oxyacetylene Gas Welding,J. Eriksen,TTh,08:00-09:25,Prison,2026-2027,Welding,Fall;Spring,every_term
+023,WEL 100,Oxyacetylene Gas Welding,T. Whitfield,S,09:00-13:50,Prison,2026-2027,Welding,Fall;Spring,every_term
+W01,WEL 101,Shielded Metal Arc Welding,A. Fontaine,Async,n/a (async),DE (distance ed),2026-2027,Welding,Fall;Spring,every_term
+020,WEL 101,Shielded Metal Arc Welding,J. Villanueva,Th,18:00-20:50,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+036,WEL 101,Shielded Metal Arc Welding,K. Mbeki,S,09:00-13:50,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+013,WEL 102,Basic Gas Metal Arc Welding,M. Yamada,MW,11:10-12:35,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+025,WEL 102,Basic Gas Metal Arc Welding,P. Eriksen,MW,11:10-12:35,Prison,2026-2027,Welding,Fall;Spring,every_term
+014,WEL 103,Basic Gas Tungsten Arc Welding,R. Tanaka,M,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+025,WEL 103,Basic Gas Tungsten Arc Welding,L. Eriksen,S,09:00-13:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+018,WEL 120,Introductory Welding Principles and Practices,L. Nakamura,Th,18:00-20:50,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+024,WEL 120,Introductory Welding Principles and Practices,P. Eriksen,TTh,08:00-09:25,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+035,WEL 120,Introductory Welding Principles and Practices,N. Delgado,W,18:00-20:50,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+015,WEL 121,Resistance Welding and Special Welding Applications,C. Eriksen,T,18:00-20:50,Prison,2026-2027,Welding,Fall;Spring,every_term
+017,WEL 122,Principles and Practices of Metal Technology and Professional Welding,E. Nakamura,Th,18:00-20:50,College 2 Main,2026-2027,Welding,Fall,fall_only
+W02,WEL 122,Principles and Practices of Metal Technology and Professional Welding,E. Gutierrez,Async,n/a (async),DE (distance ed),2026-2027,Welding,Fall,fall_only
+033,WEL 122,Principles and Practices of Metal Technology and Professional Welding,E. Tanaka,Th,18:00-20:50,College 2 Main,2026-2027,Welding,Fall,fall_only
+W01,WEL 200,Advanced Gas Metal Arc Welding,K. Alvarez,Async,n/a (async),DE (distance ed),2026-2027,Welding,Fall;Spring,every_term
+016,WEL 201,Advanced Gas Tungsten Arc Welding,H. Gutierrez,MW,11:10-12:35,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+023,WEL 201,Advanced Gas Tungsten Arc Welding,D. Eriksen,TTh,12:45-14:10,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+018,WEL 202,Advanced Oxyacetylene Gas Welding,N. Mbeki,MWF,10:00-10:50,College 2 Main,2026-2027,Welding,Fall;Spring,every_term
+013,WEL 203,Consolidated Welding,N. Yamada,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+023,WEL 203,Consolidated Welding,A. Castillo,MW,08:00-09:25,College 2 Main,2026-2027,General education / elective,Fall;Spring,every_term
+018,WEL 250,Industrial Shielded Metal Arc Welding (SMAW) I,V. Boateng,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+016,WEL 251,Industrial Flux Cored Arc Welding (FCAW) I,N. Okonkwo,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall;Spring,every_term
+W02,WEL 251,Industrial Flux Cored Arc Welding (FCAW) I,T. Whitfield,Async,n/a (async),DE (distance ed),2026-2027,General education / elective,Fall;Spring,every_term
+018,WEL 252,Industrial Shielded Metal Arc Welding (SMAW) II,L. Villanueva,MW,11:10-12:35,Prison,2026-2027,General education / elective,Fall,fall_only
+026,WEL 252,Industrial Shielded Metal Arc Welding (SMAW) II,D. Petrova,TTh,09:35-11:00,Prison,2026-2027,General education / elective,Fall,fall_only
+015,WEL 253,Industrial Flux Cored Arc Welding (FCAW) II,J. Quintero,TTh,12:45-14:10,Prison,2026-2027,General education / elective,Fall,fall_only
+023,WEL 253,Industrial Flux Cored Arc Welding (FCAW) II,T. Quintero,MW,08:00-09:25,Prison,2026-2027,General education / elective,Fall,fall_only

@@ -1,0 +1,9 @@
+attribute,column,service_area
+Parenting,is_parent,Student Services
+Working,employment_status,Student Services
+Housing,housing_status,Student Services
+Student population,student_type,Student Services
+Academic hold,hold_type = Academic,Academic Services
+Advising hold,hold_type = Advising,Academic Services
+Course term availability,offering_pattern,Academic Services
+Financial hold,hold_type = Financial,Financial Services
